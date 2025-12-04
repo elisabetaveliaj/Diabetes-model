@@ -1,0 +1,10 @@
+{
+  "AUC": 0.8618,
+  "Accuracy": 0.9229,
+  "MRR": 0.5817,
+  "Hits@1": 0.4477,
+  "Hits@3": 0.6715,
+  "Hits@10": 0.8029,
+  "MeanSatisfaction": 0.642,
+  "WeightedRuleCoverage": 0.9556
+}

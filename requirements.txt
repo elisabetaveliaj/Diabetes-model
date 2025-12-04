@@ -1,0 +1,22 @@
+# Core Dependencies
+torch>=2.0.0
+numpy>=1.21.0
+pyyaml>=6.0
+
+# LLM and API Clients
+openai>=1.0.0
+anthropic>=0.18.0
+mistralai>=0.1.0
+
+# Neo4j and Knowledge Graph
+neo4j>=5.0.0
+neo4j-graphrag>=0.1.0
+langchain>=0.1.0
+langchain-mistralai>=0.0.1
+pydantic>=2.0.0
+
+# Evaluation and Metrics
+deepeval>=0.20.0
+scikit-learn>=1.0.0
+bleurt-pytorch>=0.0.1
+pytest>=7.0.0

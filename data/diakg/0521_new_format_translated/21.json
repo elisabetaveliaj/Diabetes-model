@@ -1,0 +1,4652 @@
+{
+  "doc_id": "21",
+  "paragraphs": [
+    {
+      "paragraph_id": "0",
+      "paragraph": "中国2型糖尿病合并肥胖综合管理专家共识",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "中国2型糖尿病合并肥胖综合管理专家共识",
+          "start_idx": 0,
+          "end_idx": 19,
+          "entities": [
+            {
+              "entity_id": "T0",
+              "entity": "2型糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 7,
+              "entity_en": "Type 2 diabetes"
+            },
+            {
+              "entity_id": "T1",
+              "entity": "2型",
+              "entity_type": "Class",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "Type 2"
+            },
+            {
+              "entity_id": "T2",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 9,
+              "end_idx": 11,
+              "entity_en": "obesity"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R0",
+              "head_entity_id": "T1",
+              "tail_entity_id": "T0"
+            }
+          ],
+          "sentence_en": "Expert consensus on comprehensive management of type 2 diabetes and obesity in China"
+        }
+      ],
+      "paragraph_en": "Expert consensus on comprehensive management of type 2 diabetes and obesity in China"
+    },
+    {
+      "paragraph_id": "1",
+      "paragraph": "随着生活方式的改变及人口老龄化的加速，2型尿病(type 2 diabetes mellitus，T2DM)和肥胖的患病率呈快速上升趋势，并且已经成为全球性公共卫生问题。2010年中国糖尿病流行病学调查[以糖化血红蛋白(hemoglobin A1c，HbA1c)≥6.5%作为诊断标准之一]数据显示，中国成人糖尿病患病率高达11.6%，糖尿病患者人数居全球首位。肥胖和T2DM关系密切，中国超重与肥胖人群的糖尿病患病率分别为12.8%和18.5%；而在糖尿病患者中超重比例为41%、肥胖比例为24.3%、腹型肥胖[腰围≥90cm(男)或≥85cm(女)]患者高达45.4%。与白种人相比，中国人肥胖程度较轻，而体脂分布趋向于腹腔内积聚，更易形成腹型肥胖。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "随着生活方式的改变及人口老龄化的加速，2型尿病(type 2 diabetes mellitus，T2DM)和肥胖的患病率呈快速上升趋势，并且已经成为全球性公共卫生问题。2010年中国糖尿病流行病学调查[以糖化血红蛋白(hemoglobin A1c，HbA1c)≥6.5%作为诊断标准之一]数据显示，中国成人糖尿病患病率高达11.6%，糖尿病患者人数居全球首位。肥胖和T2DM关系密切，中国超重与肥胖人群的糖尿病患病率分别为12.8%和18.5%；而在糖尿病患者中超重比例为41%、肥胖比例为24.3%、腹型肥胖[腰围≥90cm(男)或≥85cm(女)]患者高达45.4%。与白种人相比，中国人肥胖程度较轻，而体脂分布趋向于腹腔内积聚，更易形成腹型肥胖。",
+          "start_idx": 0,
+          "end_idx": 327,
+          "entities": [
+            {
+              "entity_id": "T3",
+              "entity": "2型尿病(type 2 diabetes mellitus，T2DM)",
+              "entity_type": "Disease",
+              "start_idx": 19,
+              "end_idx": 54,
+              "entity_en": "Type 2 diabetes mellitus (T2DM)"
+            },
+            {
+              "entity_id": "T4",
+              "entity": "2型",
+              "entity_type": "Class",
+              "start_idx": 19,
+              "end_idx": 21,
+              "entity_en": "Type 2"
+            },
+            {
+              "entity_id": "T5",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 55,
+              "end_idx": 57,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T6",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 92,
+              "end_idx": 95,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T7",
+              "entity": "糖化血红蛋白(hemoglobin A1c，HbA1c)",
+              "entity_type": "Test_items",
+              "start_idx": 103,
+              "end_idx": 131,
+              "entity_en": "Glycated hemoglobin (HbA1c)"
+            },
+            {
+              "entity_id": "T8",
+              "entity": "≥6.5%",
+              "entity_type": "Test_Value",
+              "start_idx": 131,
+              "end_idx": 136,
+              "entity_en": "≥6.5%"
+            },
+            {
+              "entity_id": "T9",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 154,
+              "end_idx": 157,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T10",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 168,
+              "end_idx": 171,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T11",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 181,
+              "end_idx": 183,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T12",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 184,
+              "end_idx": 188,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T13",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 195,
+              "end_idx": 197,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T14",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 198,
+              "end_idx": 200,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T15",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 203,
+              "end_idx": 206,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T16",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 226,
+              "end_idx": 229,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T17",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 232,
+              "end_idx": 234,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T18",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 241,
+              "end_idx": 243,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T19",
+              "entity": "腹型肥胖",
+              "entity_type": "Disease",
+              "start_idx": 252,
+              "end_idx": 256,
+              "entity_en": "Abdominal obesity"
+            },
+            {
+              "entity_id": "T20",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 297,
+              "end_idx": 299,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T21",
+              "entity": "程度较轻",
+              "entity_type": "Level",
+              "start_idx": 299,
+              "end_idx": 303,
+              "entity_en": "Mild"
+            },
+            {
+              "entity_id": "T22",
+              "entity": "腹型肥胖",
+              "entity_type": "Disease",
+              "start_idx": 322,
+              "end_idx": 326,
+              "entity_en": "Abdominal obesity"
+            },
+            {
+              "entity_id": "T23",
+              "entity": "腹腔",
+              "entity_type": "Anatomy",
+              "start_idx": 312,
+              "end_idx": 314,
+              "entity_en": "Abdominal cavity"
+            },
+            {
+              "entity_id": "T24",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 184,
+              "end_idx": 186,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R1",
+              "head_entity_id": "T4",
+              "tail_entity_id": "T3"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R2",
+              "head_entity_id": "T7",
+              "tail_entity_id": "T6"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R3",
+              "head_entity_id": "T24",
+              "tail_entity_id": "T12"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R4",
+              "head_entity_id": "T23",
+              "tail_entity_id": "T22"
+            }
+          ],
+          "sentence_en": "With the change of lifestyle and the acceleration of population aging, the prevalence of type 2 diabetes mellitus (T2DM) and obesity is increasing rapidly and has become a global public health problem. According to the 2010 China Diabetes Epidemiological Survey (using hemoglobin A1c (HbA1c) ≥ 6.5% as one of the diagnostic criteria), the prevalence of diabetes in Chinese adults is as high as 11.6%, ranking first in the world in terms of the number of diabetes patients. Obesity and T2DM are closely related. The prevalence of diabetes in overweight and obese people in China is 12.8% and 18.5%, respectively; among diabetic patients, the proportion of overweight is 41%, the proportion of obesity is 24.3%, and the proportion of abdominal obesity (waist circumference ≥ 90 cm (male) or ≥ 85 cm (female)) is as high as 45.4%. Compared with Caucasians, Chinese people are less obese, and body fat distribution tends to accumulate in the abdominal cavity, making abdominal obesity more likely to occur."
+        }
+      ],
+      "paragraph_en": "With the change of lifestyle and the acceleration of population aging, the prevalence of type 2 diabetes mellitus (T2DM) and obesity is increasing rapidly and has become a global public health problem. According to the 2010 China Diabetes Epidemiological Survey (using hemoglobin A1c (HbA1c) ≥ 6.5% as one of the diagnostic criteria), the prevalence of diabetes in Chinese adults is as high as 11.6%, ranking first in the world in terms of the number of diabetes patients. Obesity and T2DM are closely related. The prevalence of diabetes in overweight and obese people in China is 12.8% and 18.5%, respectively; among diabetic patients, the proportion of overweight is 41%, the proportion of obesity is 24.3%, and the proportion of abdominal obesity (waist circumference ≥ 90 cm (male) or ≥ 85 cm (female)) is as high as 45.4%. Compared with Caucasians, Chinese people are less obese, and body fat distribution tends to accumulate in the abdominal cavity, making abdominal obesity more likely to occur."
+    },
+    {
+      "paragraph_id": "2",
+      "paragraph": "虽然既往流行病学调查中使用的超重、肥胖的诊断标准略有不同，但仍然可在一定程度上反映其高患病率，T2DM合并肥胖的管理形势非常严峻。因此，我国临床内分泌学专家根据当前中国T2DM和肥胖患者的流行病学特征及现有的临床证据，制订出本部中国T2DM合并肥胖综合管理专家共识。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "虽然既往流行病学调查中使用的超重、肥胖的诊断标准略有不同，但仍然可在一定程度上反映其高患病率，T2DM合并肥胖的管理形势非常严峻。",
+          "start_idx": 0,
+          "end_idx": 65,
+          "entities": [
+            {
+              "entity_id": "T25",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 14,
+              "end_idx": 16,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T26",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 17,
+              "end_idx": 19,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T27",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 47,
+              "end_idx": 51,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T28",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 53,
+              "end_idx": 55,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T33",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 47,
+              "end_idx": 49,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R5",
+              "head_entity_id": "T33",
+              "tail_entity_id": "T27"
+            }
+          ],
+          "sentence_en": "Although the diagnostic criteria for overweight and obesity used in previous epidemiological surveys are slightly different, they can still reflect the high prevalence to a certain extent. The management situation of T2DM combined with obesity is very serious."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "因此，我国临床内分泌学专家根据当前中国T2DM和肥胖患者的流行病学特征及现有的临床证据，制订出本部中国T2DM合并肥胖综合管理专家共识。",
+          "start_idx": 65,
+          "end_idx": 133,
+          "entities": [
+            {
+              "entity_id": "T29",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 19,
+              "end_idx": 23,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T30",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 24,
+              "end_idx": 26,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T31",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 51,
+              "end_idx": 55,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T32",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 57,
+              "end_idx": 59,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T34",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 19,
+              "end_idx": 21,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T35",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 51,
+              "end_idx": 53,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R6",
+              "head_entity_id": "T34",
+              "tail_entity_id": "T29"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R7",
+              "head_entity_id": "T35",
+              "tail_entity_id": "T31"
+            }
+          ],
+          "sentence_en": "Therefore, our country's clinical endocrinology experts have formulated this expert consensus on the comprehensive management of T2DM and obesity in China based on the current epidemiological characteristics of T2DM and obesity patients in China and existing clinical evidence."
+        }
+      ],
+      "paragraph_en": "Although the diagnostic criteria for overweight and obesity used in previous epidemiological surveys are slightly different, they still reflect the high prevalence to a certain extent. The management situation of T2DM combined with obesity is very severe. Therefore, clinical endocrinology experts in my country have formulated this expert consensus on the comprehensive management of T2DM combined with obesity in China based on the epidemiological characteristics of T2DM and obesity patients in China and the existing clinical evidence."
+    },
+    {
+      "paragraph_id": "3",
+      "paragraph": "一、T2DM合并肥胖管理的意义",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "一、T2DM合并肥胖管理的意义",
+          "start_idx": 0,
+          "end_idx": 15,
+          "entities": [
+            {
+              "entity_id": "T36",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T37",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 8,
+              "end_idx": 10,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T38",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R8",
+              "head_entity_id": "T38",
+              "tail_entity_id": "T36"
+            }
+          ],
+          "sentence_en": "1. The significance of management of T2DM combined with obesity"
+        }
+      ],
+      "paragraph_en": "1. The significance of management of T2DM combined with obesity"
+    },
+    {
+      "paragraph_id": "5",
+      "paragraph": "肥胖与糖尿病存在的其他代谢异常协同作用可进一步加剧T2DM患者慢性并发症的发生。肥胖是糖尿病肾脏病变的独立危险因素，可导致慢性肾脏病的恶化。减轻体重有利于减少慢性肾脏病患者的蛋白尿，延缓肾功能衰退进程。T2DM合并肥胖使心脑血管疾病患病风险升高。因此，针对T2DM合并肥胖患者，在降糖的同时加强体重管理，对于预防糖尿病并发症、提高患者生活质量具有重要意义。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "肥胖与糖尿病存在的其他代谢异常协同作用可进一步加剧T2DM患者慢性并发症的发生。肥胖是糖尿病肾脏病变的独立危险因素，可导致慢性肾脏病的恶化。减轻体重有利于减少慢性肾脏病患者的蛋白尿，延缓肾功能衰退进程。T2DM合并肥胖使心脑血管疾病患病风险升高。因此，针对T2DM合并肥胖患者，在降糖的同时加强体重管理，对于预防糖尿病并发症、提高患者生活质量具有重要意义。",
+          "start_idx": 0,
+          "end_idx": 178,
+          "entities": [
+            {
+              "entity_id": "T39",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 0,
+              "end_idx": 2,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T40",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 3,
+              "end_idx": 6,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T41",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 25,
+              "end_idx": 29,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T42",
+              "entity": "肥胖",
+              "entity_type": "Reason",
+              "start_idx": 40,
+              "end_idx": 42,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T43",
+              "entity": "糖尿病肾脏病变",
+              "entity_type": "Disease",
+              "start_idx": 43,
+              "end_idx": 50,
+              "entity_en": "Diabetic Nephropathy"
+            },
+            {
+              "entity_id": "T44",
+              "entity": "肾脏",
+              "entity_type": "Anatomy",
+              "start_idx": 46,
+              "end_idx": 48,
+              "entity_en": "kidney"
+            },
+            {
+              "entity_id": "T45",
+              "entity": "慢性肾脏病",
+              "entity_type": "Disease",
+              "start_idx": 61,
+              "end_idx": 66,
+              "entity_en": "Chronic kidney disease"
+            },
+            {
+              "entity_id": "T46",
+              "entity": "肾脏",
+              "entity_type": "Anatomy",
+              "start_idx": 63,
+              "end_idx": 65,
+              "entity_en": "kidney"
+            },
+            {
+              "entity_id": "T47",
+              "entity": "减轻体重",
+              "entity_type": "Treatment",
+              "start_idx": 70,
+              "end_idx": 74,
+              "entity_en": "Lose weight"
+            },
+            {
+              "entity_id": "T48",
+              "entity": "慢性肾脏病",
+              "entity_type": "Disease",
+              "start_idx": 79,
+              "end_idx": 84,
+              "entity_en": "Chronic kidney disease"
+            },
+            {
+              "entity_id": "T49",
+              "entity": "肾脏",
+              "entity_type": "Anatomy",
+              "start_idx": 81,
+              "end_idx": 83,
+              "entity_en": "kidney"
+            },
+            {
+              "entity_id": "T50",
+              "entity": "肾功能衰退",
+              "entity_type": "Disease",
+              "start_idx": 93,
+              "end_idx": 98,
+              "entity_en": "Renal function decline"
+            },
+            {
+              "entity_id": "T51",
+              "entity": "肾",
+              "entity_type": "Anatomy",
+              "start_idx": 93,
+              "end_idx": 94,
+              "entity_en": "kidney"
+            },
+            {
+              "entity_id": "T52",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 101,
+              "end_idx": 105,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T53",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 107,
+              "end_idx": 109,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T54",
+              "entity": "心脑血管疾病",
+              "entity_type": "Disease",
+              "start_idx": 110,
+              "end_idx": 116,
+              "entity_en": "Cardiovascular and cerebrovascular diseases"
+            },
+            {
+              "entity_id": "T55",
+              "entity": "心脑血管",
+              "entity_type": "Anatomy",
+              "start_idx": 110,
+              "end_idx": 114,
+              "entity_en": "Cardiovascular"
+            },
+            {
+              "entity_id": "T56",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 128,
+              "end_idx": 132,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T57",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 134,
+              "end_idx": 136,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T58",
+              "entity": "降糖",
+              "entity_type": "Treatment",
+              "start_idx": 140,
+              "end_idx": 142,
+              "entity_en": "Blood sugar reduction"
+            },
+            {
+              "entity_id": "T59",
+              "entity": "体重管理",
+              "entity_type": "Treatment",
+              "start_idx": 147,
+              "end_idx": 151,
+              "entity_en": "Weight Management"
+            },
+            {
+              "entity_id": "T60",
+              "entity": "糖尿病并发症",
+              "entity_type": "Disease",
+              "start_idx": 156,
+              "end_idx": 162,
+              "entity_en": "Complications of diabetes"
+            },
+            {
+              "entity_id": "T61",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 25,
+              "end_idx": 27,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T62",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 101,
+              "end_idx": 103,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T63",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 128,
+              "end_idx": 130,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R9",
+              "head_entity_id": "T61",
+              "tail_entity_id": "T41"
+            },
+            {
+              "relation_type": "Reason_Disease",
+              "relation_id": "R10",
+              "head_entity_id": "T42",
+              "tail_entity_id": "T43"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R11",
+              "head_entity_id": "T44",
+              "tail_entity_id": "T43"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R12",
+              "head_entity_id": "T46",
+              "tail_entity_id": "T45"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R13",
+              "head_entity_id": "T47",
+              "tail_entity_id": "T48"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R14",
+              "head_entity_id": "T49",
+              "tail_entity_id": "T48"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R15",
+              "head_entity_id": "T51",
+              "tail_entity_id": "T50"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R16",
+              "head_entity_id": "T62",
+              "tail_entity_id": "T52"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R17",
+              "head_entity_id": "T55",
+              "tail_entity_id": "T54"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R18",
+              "head_entity_id": "T58",
+              "tail_entity_id": "T56"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R19",
+              "head_entity_id": "T59",
+              "tail_entity_id": "T56"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R20",
+              "head_entity_id": "T63",
+              "tail_entity_id": "T56"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R21",
+              "head_entity_id": "T58",
+              "tail_entity_id": "T57"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R22",
+              "head_entity_id": "T59",
+              "tail_entity_id": "T57"
+            }
+          ],
+          "sentence_en": "The synergistic effect of obesity and other metabolic abnormalities in diabetes can further aggravate the occurrence of chronic complications in patients with T2DM. Obesity is an independent risk factor for diabetic nephropathy and can lead to the deterioration of chronic kidney disease. Weight loss is beneficial to reduce proteinuria in patients with chronic kidney disease and slow the process of renal function decline. T2DM combined with obesity increases the risk of cardiovascular and cerebrovascular diseases. Therefore, for patients with T2DM and obesity, strengthening weight management while lowering blood sugar is of great significance for preventing diabetic complications and improving the quality of life of patients."
+        }
+      ],
+      "paragraph_en": "The synergistic effect of obesity and other metabolic abnormalities in diabetes can further aggravate the occurrence of chronic complications in patients with T2DM. Obesity is an independent risk factor for diabetic nephropathy and can lead to the deterioration of chronic kidney disease. Weight loss is beneficial to reduce proteinuria in patients with chronic kidney disease and delay the process of renal function decline. T2DM combined with obesity increases the risk of cardiovascular and cerebrovascular diseases. Therefore, for patients with T2DM and obesity, strengthening weight management while lowering blood sugar is of great significance for preventing diabetic complications and improving the quality of life of patients."
+    },
+    {
+      "paragraph_id": "6",
+      "paragraph": "二、T2DM合并肥胖的诊断标准",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "二、T2DM合并肥胖的诊断标准",
+          "start_idx": 0,
+          "end_idx": 15,
+          "entities": [
+            {
+              "entity_id": "T64",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T65",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 8,
+              "end_idx": 10,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T66",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R23",
+              "head_entity_id": "T66",
+              "tail_entity_id": "T64"
+            }
+          ],
+          "sentence_en": "2. Diagnostic criteria for T2DM combined with obesity"
+        }
+      ],
+      "paragraph_en": "2. Diagnostic criteria for T2DM combined with obesity"
+    },
+    {
+      "paragraph_id": "7",
+      "paragraph": "目前T2DM的诊断标准与分型参考WHO 1999年标准；肥胖诊断标准参考《中国成人肥胖症防治专家共识》和《中国2型糖尿病防治指南(2013年)》腹型肥胖的标准。符合两种疾病诊断的患者即可按照T2DM合并肥胖进行管理。糖尿病和肥胖的诊断标准见表1、表2。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "目前T2DM的诊断标准与分型参考WHO 1999年标准；肥胖诊断标准参考《中国成人肥胖症防治专家共识》和《中国2型糖尿病防治指南(2013年)》腹型肥胖的标准。",
+          "start_idx": 0,
+          "end_idx": 80,
+          "entities": [
+            {
+              "entity_id": "T67",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T68",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 28,
+              "end_idx": 30,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T69",
+              "entity": "肥胖症",
+              "entity_type": "Disease",
+              "start_idx": 41,
+              "end_idx": 44,
+              "entity_en": "Obesity"
+            },
+            {
+              "entity_id": "T70",
+              "entity": "2型糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 55,
+              "end_idx": 60,
+              "entity_en": "Type 2 diabetes"
+            },
+            {
+              "entity_id": "T71",
+              "entity": "2型",
+              "entity_type": "Class",
+              "start_idx": 55,
+              "end_idx": 57,
+              "entity_en": "Type 2"
+            },
+            {
+              "entity_id": "T72",
+              "entity": "腹型肥胖",
+              "entity_type": "Disease",
+              "start_idx": 72,
+              "end_idx": 76,
+              "entity_en": "Abdominal obesity"
+            },
+            {
+              "entity_id": "T77",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R24",
+              "head_entity_id": "T77",
+              "tail_entity_id": "T67"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R25",
+              "head_entity_id": "T71",
+              "tail_entity_id": "T70"
+            }
+          ],
+          "sentence_en": "The current diagnostic criteria and classification of T2DM refer to the WHO 1999 standards; the diagnostic criteria for obesity refer to the \"Expert Consensus on the Prevention and Treatment of Adult Obesity in China\" and the \"Guidelines for the Prevention and Treatment of Type 2 Diabetes in China (2013)\" for abdominal obesity."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "符合两种疾病诊断的患者即可按照T2DM合并肥胖进行管理。",
+          "start_idx": 80,
+          "end_idx": 108,
+          "entities": [
+            {
+              "entity_id": "T73",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 15,
+              "end_idx": 19,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T74",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 21,
+              "end_idx": 23,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T78",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 15,
+              "end_idx": 17,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R26",
+              "head_entity_id": "T78",
+              "tail_entity_id": "T73"
+            }
+          ],
+          "sentence_en": "Patients who meet the diagnosis of both diseases can be managed as T2DM with obesity."
+        },
+        {
+          "sentence_id": "2",
+          "sentence": "糖尿病和肥胖的诊断标准见表1、表2。",
+          "start_idx": 108,
+          "end_idx": 126,
+          "entities": [
+            {
+              "entity_id": "T75",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 0,
+              "end_idx": 3,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T76",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 4,
+              "end_idx": 6,
+              "entity_en": "obesity"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "The diagnostic criteria for diabetes and obesity are shown in Tables 1 and 2."
+        }
+      ],
+      "paragraph_en": "At present, the diagnostic criteria and classification of T2DM refer to the WHO 1999 criteria; the diagnostic criteria of obesity refer to the \"Expert Consensus on the Prevention and Treatment of Adult Obesity in China\" and the \"Guidelines for the Prevention and Treatment of Type 2 Diabetes in China (2013)\" for abdominal obesity. Patients who meet the diagnosis of both diseases can be managed according to T2DM combined with obesity. The diagnostic criteria for diabetes and obesity are shown in Tables 1 and 2."
+    },
+    {
+      "paragraph_id": "8",
+      "paragraph": "三、T2DM合并肥胖的管理",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "三、T2DM合并肥胖的管理",
+          "start_idx": 0,
+          "end_idx": 13,
+          "entities": [
+            {
+              "entity_id": "T79",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T80",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 8,
+              "end_idx": 10,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T81",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R27",
+              "head_entity_id": "T81",
+              "tail_entity_id": "T79"
+            }
+          ],
+          "sentence_en": "III. Management of T2DM and obesity"
+        }
+      ],
+      "paragraph_en": "III. Management of T2DM and obesity"
+    },
+    {
+      "paragraph_id": "9",
+      "paragraph": "(一)T2DM合并肥胖患者的综合控制目标见表3",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(一)T2DM合并肥胖患者的综合控制目标见表3",
+          "start_idx": 0,
+          "end_idx": 23,
+          "entities": [
+            {
+              "entity_id": "T82",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 3,
+              "end_idx": 7,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T83",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 9,
+              "end_idx": 11,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T84",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 3,
+              "end_idx": 5,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R28",
+              "head_entity_id": "T84",
+              "tail_entity_id": "T82"
+            }
+          ],
+          "sentence_en": "(I) Comprehensive control targets for patients with T2DM and obesity are shown in Table 3"
+        }
+      ],
+      "paragraph_en": "(I) Comprehensive control targets for patients with T2DM and obesity are shown in Table 3"
+    },
+    {
+      "paragraph_id": "10",
+      "paragraph": "(二)T2DM合并超重或肥胖管理流程见图1",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(二)T2DM合并超重或肥胖管理流程见图1",
+          "start_idx": 0,
+          "end_idx": 21,
+          "entities": [
+            {
+              "entity_id": "T85",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 3,
+              "end_idx": 7,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T86",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 9,
+              "end_idx": 11,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T87",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 12,
+              "end_idx": 14,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T88",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 3,
+              "end_idx": 5,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R29",
+              "head_entity_id": "T88",
+              "tail_entity_id": "T85"
+            }
+          ],
+          "sentence_en": "(II) Management process of T2DM combined with overweight or obesity is shown in Figure 1"
+        }
+      ],
+      "paragraph_en": "(II) Management process of T2DM combined with overweight or obesity is shown in Figure 1"
+    },
+    {
+      "paragraph_id": "11",
+      "paragraph": "(三)饮食、运动和心理干预",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(三)饮食、运动和心理干预",
+          "start_idx": 0,
+          "end_idx": 13,
+          "entities": [
+            {
+              "entity_id": "T89",
+              "entity": "饮食、运动和心理干预",
+              "entity_type": "Treatment",
+              "start_idx": 3,
+              "end_idx": 13,
+              "entity_en": "Diet, exercise, and psychological interventions"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "3. Diet, exercise and psychological intervention"
+        }
+      ],
+      "paragraph_en": "3. Diet, exercise and psychological intervention"
+    },
+    {
+      "paragraph_id": "12",
+      "paragraph": "生活方式干预应当作为所有T2DM合并肥胖治疗的基础性措施并长期坚持。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "生活方式干预应当作为所有T2DM合并肥胖治疗的基础性措施并长期坚持。",
+          "start_idx": 0,
+          "end_idx": 34,
+          "entities": [
+            {
+              "entity_id": "T90",
+              "entity": "生活方式干预",
+              "entity_type": "Treatment",
+              "start_idx": 0,
+              "end_idx": 6,
+              "entity_en": "Lifestyle interventions"
+            },
+            {
+              "entity_id": "T91",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 12,
+              "end_idx": 16,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T92",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 18,
+              "end_idx": 20,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T93",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 12,
+              "end_idx": 14,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R30",
+              "head_entity_id": "T90",
+              "tail_entity_id": "T91"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R31",
+              "head_entity_id": "T90",
+              "tail_entity_id": "T92"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R32",
+              "head_entity_id": "T93",
+              "tail_entity_id": "T91"
+            }
+          ],
+          "sentence_en": "Lifestyle intervention should be the basic measure for the treatment of all T2DM and obesity and should be maintained for a long time."
+        }
+      ],
+      "paragraph_en": "Lifestyle intervention should be the basic measure for the treatment of all T2DM and obesity and should be maintained for a long time."
+    },
+    {
+      "paragraph_id": "13",
+      "paragraph": "1.医学营养治疗：",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "1.医学营养治疗：",
+          "start_idx": 0,
+          "end_idx": 9,
+          "entities": [
+            {
+              "entity_id": "T94",
+              "entity": "医学营养治疗",
+              "entity_type": "Treatment",
+              "start_idx": 2,
+              "end_idx": 8,
+              "entity_en": "Medical Nutrition Therapy"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "1. Medical nutritional therapy:"
+        }
+      ],
+      "paragraph_en": "1. Medical nutritional therapy:"
+    },
+    {
+      "paragraph_id": "14",
+      "paragraph": "(1)控制总能量。高于正常体重的T2DM患者，推荐按照25~30kcal/(kg标准体重·d)计算，再根据患者身高、体重、性别、年龄、活动量、应激状况等调整为个体化能量标准。不推荐长期<800kcal/d的极低能量膳食。(2)培养营养均衡的膳食习惯，蛋白质摄入量在总能量15%~20%、脂肪在总能量30%以下、碳水化合物在总能量45%~60%：①碳水化合物要注重食物品种的选择，不能单纯降低谷类主食量，以避免低血糖或酮症的发生。推荐增加低升糖指数(glycemic index，GI)食物的比例。②不建议超重或肥胖人群长期食用高蛋白质膳食；乳清蛋白有助于促进胰岛素分泌、改善糖代谢和短期内减轻体重。③应限制饱和脂肪酸与反式脂肪酸的摄入量，增加植物脂肪占总脂肪摄入的比例；膳食中宜增加富含ω-3多不饱和脂肪酸的植物油；每日胆固醇摄入量不宜超过300mg。④保证丰富的维生素、矿物质和膳食纤维摄，推荐每日膳食纤维摄入量为25~30g或10~14g/1000kcal。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(1)控制总能量。",
+          "start_idx": 0,
+          "end_idx": 9,
+          "entities": [
+            {
+              "entity_id": "T96",
+              "entity": "控制总能量",
+              "entity_type": "Treatment",
+              "start_idx": 3,
+              "end_idx": 8,
+              "entity_en": "Control total energy"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "(1) Control total energy."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "高于正常体重的T2DM患者，推荐按照25~30kcal/(kg标准体重·d)计算，再根据患者身高、体重、性别、年龄、活动量、应激状况等调整为个体化能量标准。",
+          "start_idx": 9,
+          "end_idx": 87,
+          "entities": [
+            {
+              "entity_id": "T95",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 7,
+              "end_idx": 11,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T110",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 7,
+              "end_idx": 9,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R33",
+              "head_entity_id": "T110",
+              "tail_entity_id": "T95"
+            }
+          ],
+          "sentence_en": "For T2DM patients who are above normal weight, it is recommended to calculate according to 25~30kcal/(kg standard body weight·d), and then adjust to individualized energy standards based on the patient's height, weight, gender, age, activity level, stress status, etc."
+        },
+        {
+          "sentence_id": "2",
+          "sentence": "不推荐长期<800kcal/d的极低能量膳食。",
+          "start_idx": 87,
+          "end_idx": 110,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "A very low energy diet of <800 kcal/d is not recommended for a long term."
+        },
+        {
+          "sentence_id": "3",
+          "sentence": "(2)培养营养均衡的膳食习惯，蛋白质摄入量在总能量15%~20%、脂肪在总能量30%以下、碳水化合物在总能量45%~60%：①碳水化合物要注重食物品种的选择，不能单纯降低谷类主食量，以避免低血糖或酮症的发生。",
+          "start_idx": 110,
+          "end_idx": 214,
+          "entities": [
+            {
+              "entity_id": "T103",
+              "entity": "不能单纯降低谷类主食量",
+              "entity_type": "Treatment",
+              "start_idx": 79,
+              "end_idx": 90,
+              "entity_en": "You can’t simply reduce the amount of cereal staple food"
+            },
+            {
+              "entity_id": "T105",
+              "entity": "低血糖",
+              "entity_type": "Disease",
+              "start_idx": 94,
+              "end_idx": 97,
+              "entity_en": "Hypoglycemia"
+            },
+            {
+              "entity_id": "T106",
+              "entity": "酮症",
+              "entity_type": "Disease",
+              "start_idx": 98,
+              "end_idx": 100,
+              "entity_en": "Ketosis"
+            },
+            {
+              "entity_id": "T109",
+              "entity": "培养营养均衡的膳食习惯",
+              "entity_type": "Treatment",
+              "start_idx": 3,
+              "end_idx": 14,
+              "entity_en": "Develop a nutritionally balanced diet"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "(2) Cultivate a nutritionally balanced diet, with protein intake at 15% to 20% of total energy, fat below 30% of total energy, and carbohydrates at 45% to 60% of total energy: ① Pay attention to the selection of carbohydrate food varieties, and do not simply reduce the amount of cereal staple foods to avoid the occurrence of hypoglycemia or ketosis."
+        },
+        {
+          "sentence_id": "4",
+          "sentence": "推荐增加低升糖指数(glycemic index，GI)食物的比例。",
+          "start_idx": 214,
+          "end_idx": 248,
+          "entities": [
+            {
+              "entity_id": "T104",
+              "entity": "增加低升糖指数(glycemic index，GI)食物的比例",
+              "entity_type": "Treatment",
+              "start_idx": 2,
+              "end_idx": 33,
+              "entity_en": "Increase the proportion of low glycemic index (GI) foods"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "It is recommended to increase the proportion of low glycemic index (GI) foods."
+        },
+        {
+          "sentence_id": "5",
+          "sentence": "②不建议超重或肥胖人群长期食用高蛋白质膳食；乳清蛋白有助于促进胰岛素分泌、改善糖代谢和短期内减轻体重。",
+          "start_idx": 248,
+          "end_idx": 299,
+          "entities": [
+            {
+              "entity_id": "T107",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 4,
+              "end_idx": 6,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T108",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 7,
+              "end_idx": 9,
+              "entity_en": "obesity"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "② It is not recommended for overweight or obese people to consume high-protein diets for a long time; whey protein helps promote insulin secretion, improve sugar metabolism and reduce weight in the short term."
+        },
+        {
+          "sentence_id": "6",
+          "sentence": "③应限制饱和脂肪酸与反式脂肪酸的摄入量，增加植物脂肪占总脂肪摄入的比例；膳食中宜增加富含ω-3多不饱和脂肪酸的植物油；每日胆固醇摄入量不宜超过300mg。",
+          "start_idx": 299,
+          "end_idx": 376,
+          "entities": [
+            {
+              "entity_id": "T97",
+              "entity": "限制饱和脂肪酸与反式脂肪酸的摄入量",
+              "entity_type": "Treatment",
+              "start_idx": 2,
+              "end_idx": 19,
+              "entity_en": "Limit intake of saturated and trans fatty acids"
+            },
+            {
+              "entity_id": "T98",
+              "entity": "增加植物脂肪占总脂肪摄入的比例",
+              "entity_type": "Treatment",
+              "start_idx": 20,
+              "end_idx": 35,
+              "entity_en": "Increase the proportion of vegetable fat in total fat intake"
+            },
+            {
+              "entity_id": "T99",
+              "entity": "膳食中宜增加富含ω-3多不饱和脂肪酸的植物油",
+              "entity_type": "Treatment",
+              "start_idx": 36,
+              "end_idx": 58,
+              "entity_en": "It is advisable to increase the intake of vegetable oils rich in ω-3 polyunsaturated fatty acids in the diet"
+            },
+            {
+              "entity_id": "T100",
+              "entity": "每日胆固醇摄入量不宜超过300mg",
+              "entity_type": "Treatment",
+              "start_idx": 59,
+              "end_idx": 76,
+              "entity_en": "Daily cholesterol intake should not exceed 300 mg"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "③ The intake of saturated fatty acids and trans fatty acids should be limited, and the proportion of vegetable fat in total fat intake should be increased; vegetable oils rich in ω-3 polyunsaturated fatty acids should be increased in the diet; daily cholesterol intake should not exceed 300 mg."
+        },
+        {
+          "sentence_id": "7",
+          "sentence": "④保证丰富的维生素、矿物质和膳食纤维摄，推荐每日膳食纤维摄入量为25~30g或10~14g/1000kcal。",
+          "start_idx": 376,
+          "end_idx": 431,
+          "entities": [
+            {
+              "entity_id": "T101",
+              "entity": "保证丰富的维生素、矿物质和膳食纤维摄",
+              "entity_type": "Treatment",
+              "start_idx": 1,
+              "end_idx": 19,
+              "entity_en": "Ensure rich intake of vitamins, minerals and dietary fiber"
+            },
+            {
+              "entity_id": "T102",
+              "entity": "推荐每日膳食纤维摄入量为25~30g或10~14g/1000kcal",
+              "entity_type": "Treatment",
+              "start_idx": 20,
+              "end_idx": 54,
+              "entity_en": "The recommended daily dietary fiber intake is 25-30 g or 10-14 g/1000 kcal"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "④ Ensure rich intake of vitamins, minerals and dietary fiber. The recommended daily dietary fiber intake is 25~30g or 10~14g/1000kcal."
+        }
+      ],
+      "paragraph_en": "(1) Control total energy. For patients with T2DM who are above normal weight, it is recommended to calculate according to 25-30 kcal/(kg standard body weight·d), and then adjust to individualized energy standards based on the patient's height, weight, gender, age, activity level, stress status, etc. Long-term extremely low-energy diets of <800 kcal/d are not recommended. (2) Develop a nutritionally balanced dietary habit, with protein intake at 15%-20% of total energy, fat at less than 30% of total energy, and carbohydrates at 45%-60% of total energy: ① Pay attention to the selection of carbohydrates, and do not simply reduce the amount of cereal staple foods to avoid hypoglycemia or ketosis. It is recommended to increase the proportion of low glycemic index (GI) foods. ② It is not recommended for overweight or obese people to consume high-protein diets for a long time; whey protein helps promote insulin secretion, improve sugar metabolism and reduce weight in the short term. ③ The intake of saturated fatty acids and trans fatty acids should be limited, and the proportion of vegetable fat in total fat intake should be increased; vegetable oils rich in ω-3 polyunsaturated fatty acids should be increased in the diet; daily cholesterol intake should not exceed 300 mg. ④ Ensure rich vitamins, minerals and dietary fiber intake. The recommended daily dietary fiber intake is 25~30g or 10~14g/1000kcal."
+    },
+    {
+      "paragraph_id": "15",
+      "paragraph": "2.运动治疗：",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "2.运动治疗：",
+          "start_idx": 0,
+          "end_idx": 7,
+          "entities": [
+            {
+              "entity_id": "T111",
+              "entity": "运动治疗",
+              "entity_type": "Treatment",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "Exercise therapy"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "2. Exercise therapy:"
+        }
+      ],
+      "paragraph_en": "2. Exercise therapy:"
+    },
+    {
+      "paragraph_id": "16",
+      "paragraph": "合理运动可改善胰岛素敏感性、骨酪肌功能、改善代谢紊乱，对改善生活质量有正反馈作用。(1)运动治疗前进行医学评估，严格把握适应证和禁忌证。(2)根据病程、严重程度、并发症等，并综合考虑年龄、家庭状况、运动习惯、文化背景等多种因素，制定个体化运动处方。运动处方应包括运动频率、运动强度、运动时间、运动类型和运动量5大要素。运动类型应以有氧运动为主。(3)注意事项：运动前、后监测血糖以预防低血糖，关键是自我监测与医师指导。如运动前血糖<4.2mmol/L或有低血糖反应，应降低降糖药物的使用剂量。T2DM合并肥胖患者，运动时应注意预防关节疼痛和不适。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "合理运动可改善胰岛素敏感性、骨酪肌功能、改善代谢紊乱，对改善生活质量有正反馈作用。(1)运动治疗前进行医学评估，严格把握适应证和禁忌证。(2)根据病程、严重程度、并发症等，并综合考虑年龄、家庭状况、运动习惯、文化背景等多种因素，制定个体化运动处方。运动处方应包括运动频率、运动强度、运动时间、运动类型和运动量5大要素。运动类型应以有氧运动为主。(3)注意事项：运动前、后监测血糖以预防低血糖，关键是自我监测与医师指导。如运动前血糖<4.2mmol/L或有低血糖反应，应降低降糖药物的使用剂量。T2DM合并肥胖患者，运动时应注意预防关节疼痛和不适。",
+          "start_idx": 0,
+          "end_idx": 273,
+          "entities": [
+            {
+              "entity_id": "T112",
+              "entity": "合理运动",
+              "entity_type": "Treatment",
+              "start_idx": 0,
+              "end_idx": 4,
+              "entity_en": "Reasonable exercise"
+            },
+            {
+              "entity_id": "T113",
+              "entity": "医学评估",
+              "entity_type": "Treatment",
+              "start_idx": 51,
+              "end_idx": 55,
+              "entity_en": "Medical evaluation"
+            },
+            {
+              "entity_id": "T114",
+              "entity": "运动类型应以有氧运动为主",
+              "entity_type": "Treatment",
+              "start_idx": 159,
+              "end_idx": 171,
+              "entity_en": "The type of exercise should be mainly aerobic exercise"
+            },
+            {
+              "entity_id": "T115",
+              "entity": "监测血糖",
+              "entity_type": "Test_items",
+              "start_idx": 185,
+              "end_idx": 189,
+              "entity_en": "Monitoring blood sugar"
+            },
+            {
+              "entity_id": "T116",
+              "entity": "低血糖",
+              "entity_type": "Disease",
+              "start_idx": 192,
+              "end_idx": 195,
+              "entity_en": "Hypoglycemia"
+            },
+            {
+              "entity_id": "T117",
+              "entity": "自我监测",
+              "entity_type": "Treatment",
+              "start_idx": 199,
+              "end_idx": 203,
+              "entity_en": "Self-monitoring"
+            },
+            {
+              "entity_id": "T118",
+              "entity": "医师指导",
+              "entity_type": "Treatment",
+              "start_idx": 204,
+              "end_idx": 208,
+              "entity_en": "Physician guidance"
+            },
+            {
+              "entity_id": "T119",
+              "entity": "运动前血糖",
+              "entity_type": "Test_items",
+              "start_idx": 210,
+              "end_idx": 215,
+              "entity_en": "Blood sugar before exercise"
+            },
+            {
+              "entity_id": "T120",
+              "entity": "<4.2mmol/L",
+              "entity_type": "Test_Value",
+              "start_idx": 215,
+              "end_idx": 225,
+              "entity_en": "<4.2mmol/L"
+            },
+            {
+              "entity_id": "T121",
+              "entity": "低血糖反应",
+              "entity_type": "Symptom",
+              "start_idx": 227,
+              "end_idx": 232,
+              "entity_en": "Hypoglycemic reaction"
+            },
+            {
+              "entity_id": "T122",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 246,
+              "end_idx": 250,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T123",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 252,
+              "end_idx": 254,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T124",
+              "entity": "关节疼痛和不适",
+              "entity_type": "Symptom",
+              "start_idx": 265,
+              "end_idx": 272,
+              "entity_en": "Joint pain and discomfort"
+            },
+            {
+              "entity_id": "T125",
+              "entity": "制定个体化运动处方",
+              "entity_type": "Treatment",
+              "start_idx": 114,
+              "end_idx": 123,
+              "entity_en": "Develop an individualized exercise prescription"
+            },
+            {
+              "entity_id": "T126",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 246,
+              "end_idx": 248,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R34",
+              "head_entity_id": "T126",
+              "tail_entity_id": "T122"
+            }
+          ],
+          "sentence_en": "Reasonable exercise can improve insulin sensitivity, skeletal muscle function, and metabolic disorders, and has a positive feedback effect on improving the quality of life. (1) Conduct a medical assessment before exercise therapy, and strictly grasp the indications and contraindications. (2) Develop an individualized exercise prescription based on the course of the disease, severity, complications, and comprehensive consideration of multiple factors such as age, family status, exercise habits, and cultural background. The exercise prescription should include five major elements: exercise frequency, exercise intensity, exercise time, exercise type, and exercise volume. The type of exercise should be mainly aerobic exercise. (3) Precautions: Monitor blood sugar before and after exercise to prevent hypoglycemia. The key is self-monitoring and physician guidance. If blood sugar is <4.2mmol/L before exercise or there is a hypoglycemic reaction, the dose of hypoglycemic drugs should be reduced. Patients with T2DM and obesity should pay attention to preventing joint pain and discomfort during exercise."
+        }
+      ],
+      "paragraph_en": "Reasonable exercise can improve insulin sensitivity, skeletal muscle function, and metabolic disorders, and has a positive feedback effect on improving the quality of life. (1) Conduct a medical assessment before exercise therapy, and strictly grasp the indications and contraindications. (2) Develop an individualized exercise prescription based on the course of the disease, severity, complications, and comprehensive consideration of multiple factors such as age, family status, exercise habits, and cultural background. The exercise prescription should include five major elements: exercise frequency, exercise intensity, exercise time, exercise type, and exercise volume. The type of exercise should be mainly aerobic exercise. (3) Precautions: Monitor blood sugar before and after exercise to prevent hypoglycemia. The key is self-monitoring and physician guidance. If blood sugar is <4.2mmol/L before exercise or there is a hypoglycemic reaction, the dose of hypoglycemic drugs should be reduced. Patients with T2DM and obesity should pay attention to preventing joint pain and discomfort during exercise."
+    },
+    {
+      "paragraph_id": "17",
+      "paragraph": "3.心理干预：",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "3.心理干预：",
+          "start_idx": 0,
+          "end_idx": 7,
+          "entities": [
+            {
+              "entity_id": "T127",
+              "entity": "心理干预",
+              "entity_type": "Treatment",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "Psychological interventions"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "3. Psychological intervention:"
+        }
+      ],
+      "paragraph_en": "3. Psychological intervention:"
+    },
+    {
+      "paragraph_id": "18",
+      "paragraph": "肥胖和T2DM的共存使糖尿病的治疗变得更为复杂。肥胖和糖尿病的双重压力进一步加重患者的心理负担。对于肥胖或超重的T2DM惠者应该加强心理干预，通过专业心理医生或者糖尿病专科医生的心理指导，帮助患者循序渐进地改善生活方式，建立自信。降低体重不仅会减轻T2DM患者的心理障碍，而且更容易使很多患者从减肥和运动中再次获得自信，提高生活满意度。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "肥胖和T2DM的共存使糖尿病的治疗变得更为复杂。肥胖和糖尿病的双重压力进一步加重患者的心理负担。对于肥胖或超重的T2DM惠者应该加强心理干预，通过专业心理医生或者糖尿病专科医生的心理指导，帮助患者循序渐进地改善生活方式，建立自信。降低体重不仅会减轻T2DM患者的心理障碍，而且更容易使很多患者从减肥和运动中再次获得自信，提高生活满意度。",
+          "start_idx": 0,
+          "end_idx": 168,
+          "entities": [
+            {
+              "entity_id": "T128",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 0,
+              "end_idx": 2,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T129",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 3,
+              "end_idx": 7,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T130",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 11,
+              "end_idx": 14,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T131",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 24,
+              "end_idx": 26,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T132",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 27,
+              "end_idx": 30,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T133",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 50,
+              "end_idx": 52,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T134",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 53,
+              "end_idx": 55,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T135",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 56,
+              "end_idx": 60,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T136",
+              "entity": "加强心理干预",
+              "entity_type": "Treatment",
+              "start_idx": 64,
+              "end_idx": 70,
+              "entity_en": "Strengthen psychological intervention"
+            },
+            {
+              "entity_id": "T137",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 81,
+              "end_idx": 84,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T138",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 124,
+              "end_idx": 128,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T139",
+              "entity": "降低体重",
+              "entity_type": "Treatment",
+              "start_idx": 115,
+              "end_idx": 119,
+              "entity_en": "Reduce your weight"
+            },
+            {
+              "entity_id": "T140",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 3,
+              "end_idx": 5,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T141",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 56,
+              "end_idx": 58,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T142",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 124,
+              "end_idx": 126,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R35",
+              "head_entity_id": "T140",
+              "tail_entity_id": "T129"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R36",
+              "head_entity_id": "T136",
+              "tail_entity_id": "T133"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R37",
+              "head_entity_id": "T136",
+              "tail_entity_id": "T134"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R38",
+              "head_entity_id": "T141",
+              "tail_entity_id": "T135"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R39",
+              "head_entity_id": "T139",
+              "tail_entity_id": "T138"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R40",
+              "head_entity_id": "T142",
+              "tail_entity_id": "T138"
+            }
+          ],
+          "sentence_en": "The coexistence of obesity and T2DM makes the treatment of diabetes more complicated. The dual pressure of obesity and diabetes further increases the psychological burden of patients. Psychological intervention should be strengthened for obese or overweight T2DM patients. Through psychological guidance from professional psychologists or diabetes specialists, patients can be helped to gradually improve their lifestyle and build self-confidence. Losing weight will not only alleviate the psychological barriers of T2DM patients, but also make it easier for many patients to regain confidence from weight loss and exercise, and improve their life satisfaction."
+        }
+      ],
+      "paragraph_en": "The coexistence of obesity and T2DM makes the treatment of diabetes more complicated. The dual pressure of obesity and diabetes further increases the psychological burden of patients. Psychological intervention should be strengthened for obese or overweight T2DM patients. Through psychological guidance from professional psychologists or diabetes specialists, patients can be helped to gradually improve their lifestyle and build self-confidence. Losing weight will not only alleviate the psychological barriers of T2DM patients, but also make it easier for many patients to regain confidence from weight loss and exercise, and improve their life satisfaction."
+    },
+    {
+      "paragraph_id": "19",
+      "paragraph": "4.药物治疗：",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "4.药物治疗：",
+          "start_idx": 0,
+          "end_idx": 7,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "4. Drug treatment:"
+        }
+      ],
+      "paragraph_en": "4. Drug treatment:"
+    },
+    {
+      "paragraph_id": "20",
+      "paragraph": "(1)总体治疗原则：①在选择降糖药物时，应优先考虑有利于减轻体重或对体重影响中性的药物；②需要胰岛素治疗的T2DM合并肥胖患者，建议联合使用至少一种其他降糖药物，如二甲双胍、胰升糖素样肽1(glucagon-like peptide-1，GLP-1)受体激动剂(GLP-1RA)、α-糖苷酶抑制剂、二肽基肽酶4(dipeptidyl peptidase 4，DPP-4)抑制剂等，从而减轻因胰岛素剂量过大而引起的体重增加。③体重控制仍不理想者，可短期或长期联合使用对糖代谢有改善作用且安全性良好的减肥药。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(1)总体治疗原则：①在选择降糖药物时，应优先考虑有利于减轻体重或对体重影响中性的药物；②需要胰岛素治疗的T2DM合并肥胖患者，建议联合使用至少一种其他降糖药物，如二甲双胍、胰升糖素样肽1(glucagon-like peptide-1，GLP-1)受体激动剂(GLP-1RA)、α-糖苷酶抑制剂、二肽基肽酶4(dipeptidyl peptidase 4，DPP-4)抑制剂等，从而减轻因胰岛素剂量过大而引起的体重增加。",
+          "start_idx": 0,
+          "end_idx": 211,
+          "entities": [
+            {
+              "entity_id": "T143",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 53,
+              "end_idx": 57,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T144",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 59,
+              "end_idx": 61,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T145",
+              "entity": "胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 47,
+              "end_idx": 50,
+              "entity_en": "insulin"
+            },
+            {
+              "entity_id": "T146",
+              "entity": "二甲双胍",
+              "entity_type": "Drug",
+              "start_idx": 82,
+              "end_idx": 86,
+              "entity_en": "Metformin"
+            },
+            {
+              "entity_id": "T147",
+              "entity": "胰升糖素样肽1(glucagon-like peptide-1，GLP-1)受体激动剂(GLP-1RA)",
+              "entity_type": "Drug",
+              "start_idx": 87,
+              "end_idx": 139,
+              "entity_en": "Glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1RA)"
+            },
+            {
+              "entity_id": "T148",
+              "entity": "α-糖苷酶抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 140,
+              "end_idx": 148,
+              "entity_en": "α-Glucosidase inhibitors"
+            },
+            {
+              "entity_id": "T149",
+              "entity": "二肽基肽酶4(dipeptidyl peptidase 4，DPP-4)抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 149,
+              "end_idx": 188,
+              "entity_en": "Dipeptidyl peptidase 4 (DPP-4) inhibitors"
+            },
+            {
+              "entity_id": "T150",
+              "entity": "胰岛素剂量过大",
+              "entity_type": "Reason",
+              "start_idx": 195,
+              "end_idx": 202,
+              "entity_en": "Excessive insulin dose"
+            },
+            {
+              "entity_id": "T151",
+              "entity": "体重增加",
+              "entity_type": "Disease",
+              "start_idx": 206,
+              "end_idx": 210,
+              "entity_en": "Weight gain"
+            },
+            {
+              "entity_id": "T152",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 53,
+              "end_idx": 55,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Drug_Disease",
+              "relation_id": "R41",
+              "head_entity_id": "T145",
+              "tail_entity_id": "T143"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R42",
+              "head_entity_id": "T152",
+              "tail_entity_id": "T143"
+            },
+            {
+              "relation_type": "Drug_Disease",
+              "relation_id": "R43",
+              "head_entity_id": "T145",
+              "tail_entity_id": "T144"
+            },
+            {
+              "relation_type": "Reason_Disease",
+              "relation_id": "R44",
+              "head_entity_id": "T150",
+              "tail_entity_id": "T151"
+            }
+          ],
+          "sentence_en": "(1) General treatment principles: ① When choosing hypoglycemic drugs, priority should be given to drugs that are beneficial to weight loss or have a neutral effect on weight. ② For patients with T2DM and obesity who require insulin treatment, it is recommended to use at least one other hypoglycemic drug in combination, such as metformin, glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1RA), α-glucosidase inhibitors, dipeptidyl peptidase 4 (DPP-4) inhibitors, etc., to reduce weight gain caused by excessive insulin doses."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "③体重控制仍不理想者，可短期或长期联合使用对糖代谢有改善作用且安全性良好的减肥药。",
+          "start_idx": 211,
+          "end_idx": 252,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "③ For those whose weight control is still not ideal, short-term or long-term combined use of weight-loss drugs that improve sugar metabolism and have good safety can be used."
+        }
+      ],
+      "paragraph_en": "(1) General treatment principles: ① When choosing hypoglycemic drugs, priority should be given to drugs that are beneficial to weight loss or have a neutral effect on weight; ② For patients with T2DM and obesity who require insulin treatment, it is recommended to use at least one other hypoglycemic drug in combination, such as metformin, glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1RA), α-glucosidase inhibitors, dipeptidyl peptidase 4 (DPP-4) inhibitors, etc., to reduce weight gain caused by excessive insulin doses. ③ For those whose weight control is still not ideal, weight loss drugs that have a good safety profile and improve glucose metabolism can be used in combination for a short or long term."
+    },
+    {
+      "paragraph_id": "21",
+      "paragraph": "(2)常用降糖药物对血糖、体重的影响：各种降糖药物的作用机制不同，对体重的影响也存在差异。T2DM合并肥胖患者在选择降糖药物时，应兼顾血糖和体重，尽可能选择降效果肯定同时不增加体重的药物。常用降糖药物对血糖、体重及内脏脂肪的作用见表4。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(2)常用降糖药物对血糖、体重的影响：各种降糖药物的作用机制不同，对体重的影响也存在差异。T2DM合并肥胖患者在选择降糖药物时，应兼顾血糖和体重，尽可能选择降效果肯定同时不增加体重的药物。",
+          "start_idx": 0,
+          "end_idx": 94,
+          "entities": [
+            {
+              "entity_id": "T153",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 10,
+              "end_idx": 12,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T154",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 45,
+              "end_idx": 49,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T155",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 51,
+              "end_idx": 53,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T156",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 67,
+              "end_idx": 69,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T158",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 45,
+              "end_idx": 47,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R45",
+              "head_entity_id": "T156",
+              "tail_entity_id": "T154"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R46",
+              "head_entity_id": "T158",
+              "tail_entity_id": "T154"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R47",
+              "head_entity_id": "T156",
+              "tail_entity_id": "T155"
+            }
+          ],
+          "sentence_en": "(2) Effects of commonly used hypoglycemic drugs on blood sugar and body weight: Various hypoglycemic drugs have different mechanisms of action and different effects on body weight. When choosing hypoglycemic drugs, patients with T2DM and obesity should take both blood sugar and body weight into consideration and try to choose drugs that have a positive hypoglycemic effect and do not increase body weight."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "常用降糖药物对血糖、体重及内脏脂肪的作用见表4。",
+          "start_idx": 94,
+          "end_idx": 118,
+          "entities": [
+            {
+              "entity_id": "T157",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 7,
+              "end_idx": 9,
+              "entity_en": "blood sugar"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "The effects of commonly used hypoglycemic drugs on blood glucose, body weight and visceral fat are shown in Table 4."
+        }
+      ],
+      "paragraph_en": "(2) Effects of commonly used hypoglycemic drugs on blood sugar and body weight: Various hypoglycemic drugs have different mechanisms of action and different effects on body weight. When choosing hypoglycemic drugs, patients with T2DM and obesity should take both blood sugar and body weight into consideration and try to choose drugs that have a positive hypoglycemic effect and do not increase body weight. The effects of commonly used hypoglycemic drugs on blood sugar, body weight and visceral fat are shown in Table 4."
+    },
+    {
+      "paragraph_id": "22",
+      "paragraph": "降糖同时增加体重的药物有胰岛素、噻唑烷二酮类(thiazolidinediones，TZDs)、磺脲类药物。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "降糖同时增加体重的药物有胰岛素、噻唑烷二酮类(thiazolidinediones，TZDs)、磺脲类药物。",
+          "start_idx": 0,
+          "end_idx": 54,
+          "entities": [
+            {
+              "entity_id": "T159",
+              "entity": "胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 12,
+              "end_idx": 15,
+              "entity_en": "insulin"
+            },
+            {
+              "entity_id": "T160",
+              "entity": "噻唑烷二酮类(thiazolidinediones，TZDs)",
+              "entity_type": "Drug",
+              "start_idx": 16,
+              "end_idx": 47,
+              "entity_en": "Thiazolidinediones (TZDs)"
+            },
+            {
+              "entity_id": "T161",
+              "entity": "磺脲类药物",
+              "entity_type": "Drug",
+              "start_idx": 48,
+              "end_idx": 53,
+              "entity_en": "Sulfonylureas"
+            },
+            {
+              "entity_id": "T162",
+              "entity": "增加体重",
+              "entity_type": "ADE",
+              "start_idx": 4,
+              "end_idx": 8,
+              "entity_en": "Gaining weight"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R48",
+              "head_entity_id": "T162",
+              "tail_entity_id": "T159"
+            },
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R49",
+              "head_entity_id": "T162",
+              "tail_entity_id": "T160"
+            },
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R50",
+              "head_entity_id": "T162",
+              "tail_entity_id": "T161"
+            }
+          ],
+          "sentence_en": "Drugs that lower blood sugar and increase weight at the same time include insulin, thiazolidinediones (TZDs), and sulfonylureas."
+        }
+      ],
+      "paragraph_en": "Drugs that lower blood sugar and increase weight at the same time include insulin, thiazolidinediones (TZDs), and sulfonylureas."
+    },
+    {
+      "paragraph_id": "23",
+      "paragraph": "胰岛素仍是迄今为止最强有效的降糖药物，胰岛素的增重效应呈剂量依赖性和个体差异性，但不同胰岛素种类在增重方面有所差异，如基础胰岛素类似物-地特胰岛素具有体重增加较少的优势。TZDs主要通过增加靶细胞对胰岛素作用的敏感性而降低血糖，可使HbA1c下降1.0%~1.5%，引起体重增加(主要为水钠潴留)。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "胰岛素仍是迄今为止最强有效的降糖药物，胰岛素的增重效应呈剂量依赖性和个体差异性，但不同胰岛素种类在增重方面有所差异，如基础胰岛素类似物-地特胰岛素具有体重增加较少的优势。",
+          "start_idx": 0,
+          "end_idx": 85,
+          "entities": [
+            {
+              "entity_id": "T163",
+              "entity": "胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 3,
+              "entity_en": "insulin"
+            },
+            {
+              "entity_id": "T164",
+              "entity": "胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 19,
+              "end_idx": 22,
+              "entity_en": "insulin"
+            },
+            {
+              "entity_id": "T165",
+              "entity": "增重",
+              "entity_type": "ADE",
+              "start_idx": 23,
+              "end_idx": 25,
+              "entity_en": "Weight gain"
+            },
+            {
+              "entity_id": "T166",
+              "entity": "胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 43,
+              "end_idx": 46,
+              "entity_en": "insulin"
+            },
+            {
+              "entity_id": "T167",
+              "entity": "增重",
+              "entity_type": "ADE",
+              "start_idx": 49,
+              "end_idx": 51,
+              "entity_en": "Weight gain"
+            },
+            {
+              "entity_id": "T168",
+              "entity": "胰岛素类似物",
+              "entity_type": "Drug",
+              "start_idx": 61,
+              "end_idx": 67,
+              "entity_en": "Insulin analogs"
+            },
+            {
+              "entity_id": "T169",
+              "entity": "地特胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 68,
+              "end_idx": 73,
+              "entity_en": "Insulin Detemir"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R51",
+              "head_entity_id": "T165",
+              "tail_entity_id": "T164"
+            },
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R52",
+              "head_entity_id": "T167",
+              "tail_entity_id": "T166"
+            }
+          ],
+          "sentence_en": "Insulin is still the most effective hypoglycemic drug to date. The weight gain effect of insulin is dose-dependent and varies between individuals, but different types of insulin differ in weight gain. For example, the basal insulin analog - detemir insulin has the advantage of less weight gain."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "TZDs主要通过增加靶细胞对胰岛素作用的敏感性而降低血糖，可使HbA1c下降1.0%~1.5%，引起体重增加(主要为水钠潴留)。",
+          "start_idx": 85,
+          "end_idx": 149,
+          "entities": [
+            {
+              "entity_id": "T170",
+              "entity": "TZDs",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 4,
+              "entity_en": "TZD"
+            },
+            {
+              "entity_id": "T171",
+              "entity": "胰岛素",
+              "entity_type": "Drug",
+              "start_idx": 14,
+              "end_idx": 17,
+              "entity_en": "insulin"
+            },
+            {
+              "entity_id": "T172",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 26,
+              "end_idx": 28,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T173",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 31,
+              "end_idx": 36,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T174",
+              "entity": "下降1.0%~1.5%",
+              "entity_type": "Test_Value",
+              "start_idx": 36,
+              "end_idx": 47,
+              "entity_en": "Decrease by 1.0%~1.5%"
+            },
+            {
+              "entity_id": "T175",
+              "entity": "体重增加",
+              "entity_type": "ADE",
+              "start_idx": 50,
+              "end_idx": 54,
+              "entity_en": "Weight gain"
+            },
+            {
+              "entity_id": "T176",
+              "entity": "水钠潴留",
+              "entity_type": "Pathogenesis",
+              "start_idx": 58,
+              "end_idx": 62,
+              "entity_en": "Water and sodium retention"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R53",
+              "head_entity_id": "T175",
+              "tail_entity_id": "T170"
+            }
+          ],
+          "sentence_en": "TZDs lower blood sugar mainly by increasing the sensitivity of target cells to the effects of insulin, which can reduce HbA1c by 1.0%~1.5% and cause weight gain (mainly due to water and sodium retention)."
+        }
+      ],
+      "paragraph_en": "Insulin is still the most effective hypoglycemic drug to date. The weight gain effect of insulin is dose-dependent and varies from person to person, but different types of insulin have different weight gain effects. For example, the basal insulin analog, detemir, has the advantage of less weight gain. TZDs mainly reduce blood sugar by increasing the sensitivity of target cells to the effects of insulin, which can reduce HbA1c by 1.0% to 1.5%, causing weight gain (mainly water and sodium retention)."
+    },
+    {
+      "paragraph_id": "24",
+      "paragraph": "磺脲类药物通过刺激胰岛β细胞分泌胰岛素，增加体内胰岛素水平来发挥降糖作用，可使HbA1c降低1.0%~1.5%；磺脲类药物也可引起体重增加。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "磺脲类药物通过刺激胰岛β细胞分泌胰岛素，增加体内胰岛素水平来发挥降糖作用，可使HbA1c降低1.0%~1.5%；磺脲类药物也可引起体重增加。",
+          "start_idx": 0,
+          "end_idx": 70,
+          "entities": [
+            {
+              "entity_id": "T177",
+              "entity": "磺脲类药物",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 5,
+              "entity_en": "Sulfonylureas"
+            },
+            {
+              "entity_id": "T178",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 39,
+              "end_idx": 44,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T179",
+              "entity": "降低1.0%~1.5%",
+              "entity_type": "Test_Value",
+              "start_idx": 44,
+              "end_idx": 55,
+              "entity_en": "Reduce by 1.0%~1.5%"
+            },
+            {
+              "entity_id": "T180",
+              "entity": "磺脲类药物",
+              "entity_type": "Drug",
+              "start_idx": 56,
+              "end_idx": 61,
+              "entity_en": "Sulfonylureas"
+            },
+            {
+              "entity_id": "T181",
+              "entity": "体重增加",
+              "entity_type": "ADE",
+              "start_idx": 65,
+              "end_idx": 69,
+              "entity_en": "Weight gain"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R54",
+              "head_entity_id": "T181",
+              "tail_entity_id": "T180"
+            }
+          ],
+          "sentence_en": "Sulfonylureas exert their glucose-lowering effects by stimulating pancreatic β-cells to secrete insulin and increasing insulin levels in the body, which can reduce HbA1c by 1.0%~1.5%; sulfonylureas can also cause weight gain."
+        }
+      ],
+      "paragraph_en": "Sulfonylureas exert their glucose-lowering effects by stimulating pancreatic beta cells to secrete insulin and increasing insulin levels in the body, which can reduce HbA1c by 1.0%~1.5%; sulfonylureas can also cause weight gain."
+    },
+    {
+      "paragraph_id": "25",
+      "paragraph": "降糖同时减轻或不增加体重的降糖药物主要有GLP-1受体激动剂、二甲双胍、α-糖苷酶抑制剂、DPP-4抑制剂和钠-葡萄糖协同转运蛋白2(sodium-glucose cotransporter-2，SGLT-2)抑制剂。其中，GLP-1受体激动剂可显著减轻患者体重。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "降糖同时减轻或不增加体重的降糖药物主要有GLP-1受体激动剂、二甲双胍、α-糖苷酶抑制剂、DPP-4抑制剂和钠-葡萄糖协同转运蛋白2(sodium-glucose cotransporter-2，SGLT-2)抑制剂。其中，GLP-1受体激动剂可显著减轻患者体重。",
+          "start_idx": 0,
+          "end_idx": 132,
+          "entities": [
+            {
+              "entity_id": "T182",
+              "entity": "GLP-1受体激动剂",
+              "entity_type": "Drug",
+              "start_idx": 20,
+              "end_idx": 30,
+              "entity_en": "GLP-1 receptor agonists"
+            },
+            {
+              "entity_id": "T183",
+              "entity": "二甲双胍",
+              "entity_type": "Drug",
+              "start_idx": 31,
+              "end_idx": 35,
+              "entity_en": "Metformin"
+            },
+            {
+              "entity_id": "T184",
+              "entity": "α-糖苷酶抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 36,
+              "end_idx": 44,
+              "entity_en": "α-Glucosidase inhibitors"
+            },
+            {
+              "entity_id": "T185",
+              "entity": "DPP-4抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 45,
+              "end_idx": 53,
+              "entity_en": "DPP-4 inhibitors"
+            },
+            {
+              "entity_id": "T186",
+              "entity": "钠-葡萄糖协同转运蛋白2(sodium-glucose cotransporter-2，SGLT-2)抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 54,
+              "end_idx": 108,
+              "entity_en": "Sodium-glucose cotransporter-2 (SGLT-2) inhibitors"
+            },
+            {
+              "entity_id": "T187",
+              "entity": "GLP-1受体激动剂",
+              "entity_type": "Drug",
+              "start_idx": 112,
+              "end_idx": 122,
+              "entity_en": "GLP-1 receptor agonists"
+            },
+            {
+              "entity_id": "T188",
+              "entity": "减轻患者体重",
+              "entity_type": "ADE",
+              "start_idx": 125,
+              "end_idx": 131,
+              "entity_en": "Reduce patient weight"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R55",
+              "head_entity_id": "T188",
+              "tail_entity_id": "T187"
+            }
+          ],
+          "sentence_en": "The main glucose-lowering drugs that can reduce blood sugar and reduce or not increase body weight include GLP-1 receptor agonists, metformin, α-glucosidase inhibitors, DPP-4 inhibitors and sodium-glucose cotransporter-2 (SGLT-2) inhibitors. Among them, GLP-1 receptor agonists can significantly reduce the patient's weight."
+        }
+      ],
+      "paragraph_en": "The main glucose-lowering drugs that can reduce blood sugar and reduce or not increase body weight include GLP-1 receptor agonists, metformin, α-glucosidase inhibitors, DPP-4 inhibitors and sodium-glucose cotransporter-2 (SGLT-2) inhibitors. Among them, GLP-1 receptor agonists can significantly reduce the patient's weight."
+    },
+    {
+      "paragraph_id": "26",
+      "paragraph": "GLP-1受体激动剂主要通过激活GLP-1受体发挥作用，因其降糖作用具有葡萄糖浓度依赖性，因此低血糖发生率极低。利拉鲁肽无论单药或联合治疗，均能显著降低HbA1c1.1%~1.6%，降低体重1.0-3.2kg，持久地缩小患者腰围，且基线体重、腰围值越大，降低体重、缩小腰围的效果越显著。LEAD-2研究中，利拉鲁肽1.2mg或1.8mg治疗使患者内脏脂肪分别减少17.1%和16.4%。另一种GLP-1受体激动剂艾塞那肽，与利拉鲁肽头对头比较的临床研究显示，降糖效果略差，减重效果类似。此外，利拉鲁肽(3.0mg/d)在美国、加拿大、欧盟已经被正式批准作为减肥药。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "GLP-1受体激动剂主要通过激活GLP-1受体发挥作用，因其降糖作用具有葡萄糖浓度依赖性，因此低血糖发生率极低。利拉鲁肽无论单药或联合治疗，均能显著降低HbA1c1.1%~1.6%，降低体重1.0-3.2kg，持久地缩小患者腰围，且基线体重、腰围值越大，降低体重、缩小腰围的效果越显著。LEAD-2研究中，利拉鲁肽1.2mg或1.8mg治疗使患者内脏脂肪分别减少17.1%和16.4%。另一种GLP-1受体激动剂艾塞那肽，与利拉鲁肽头对头比较的临床研究显示，降糖效果略差，减重效果类似。此外，利拉鲁肽(3.0mg/d)在美国、加拿大、欧盟已经被正式批准作为减肥药。",
+          "start_idx": 0,
+          "end_idx": 282,
+          "entities": [
+            {
+              "entity_id": "T189",
+              "entity": "GLP-1受体激动剂",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 10,
+              "entity_en": "GLP-1 receptor agonists"
+            },
+            {
+              "entity_id": "T190",
+              "entity": "低血糖",
+              "entity_type": "ADE",
+              "start_idx": 47,
+              "end_idx": 50,
+              "entity_en": "Hypoglycemia"
+            },
+            {
+              "entity_id": "T191",
+              "entity": "利拉鲁肽",
+              "entity_type": "Drug",
+              "start_idx": 56,
+              "end_idx": 60,
+              "entity_en": "Liraglutide"
+            },
+            {
+              "entity_id": "T192",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 76,
+              "end_idx": 81,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T193",
+              "entity": "1.1%~1.6%",
+              "entity_type": "Test_Value",
+              "start_idx": 81,
+              "end_idx": 90,
+              "entity_en": "1.1%~1.6%"
+            },
+            {
+              "entity_id": "T194",
+              "entity": "利拉鲁肽",
+              "entity_type": "Drug",
+              "start_idx": 153,
+              "end_idx": 157,
+              "entity_en": "Liraglutide"
+            },
+            {
+              "entity_id": "T195",
+              "entity": "1.2mg",
+              "entity_type": "Amount",
+              "start_idx": 157,
+              "end_idx": 162,
+              "entity_en": "1.2mg"
+            },
+            {
+              "entity_id": "T196",
+              "entity": "1.8mg",
+              "entity_type": "Amount",
+              "start_idx": 163,
+              "end_idx": 168,
+              "entity_en": "1.8mg"
+            },
+            {
+              "entity_id": "T197",
+              "entity": "GLP-1受体激动剂艾塞那肽",
+              "entity_type": "Drug",
+              "start_idx": 196,
+              "end_idx": 210,
+              "entity_en": "GLP-1 receptor agonist exenatide"
+            },
+            {
+              "entity_id": "T198",
+              "entity": "利拉鲁肽",
+              "entity_type": "Drug",
+              "start_idx": 212,
+              "end_idx": 216,
+              "entity_en": "Liraglutide"
+            },
+            {
+              "entity_id": "T199",
+              "entity": "利拉鲁肽",
+              "entity_type": "Drug",
+              "start_idx": 246,
+              "end_idx": 250,
+              "entity_en": "Liraglutide"
+            },
+            {
+              "entity_id": "T200",
+              "entity": "3.0mg/d",
+              "entity_type": "Amount",
+              "start_idx": 251,
+              "end_idx": 258,
+              "entity_en": "3.0 mg/day"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R56",
+              "head_entity_id": "T190",
+              "tail_entity_id": "T189"
+            },
+            {
+              "relation_type": "Amount_Drug",
+              "relation_id": "R57",
+              "head_entity_id": "T195",
+              "tail_entity_id": "T194"
+            },
+            {
+              "relation_type": "Amount_Drug",
+              "relation_id": "R58",
+              "head_entity_id": "T196",
+              "tail_entity_id": "T194"
+            },
+            {
+              "relation_type": "Amount_Drug",
+              "relation_id": "R59",
+              "head_entity_id": "T200",
+              "tail_entity_id": "T199"
+            }
+          ],
+          "sentence_en": "GLP-1 receptor agonists mainly work by activating GLP-1 receptors. Because their glucose-lowering effect is dependent on glucose concentration, the incidence of hypoglycemia is extremely low. Whether used alone or in combination, liraglutide can significantly reduce HbA1c by 1.1%~1.6%, reduce body weight by 1.0-3.2kg, and permanently reduce the patient's waist circumference. The greater the baseline weight and waist circumference, the more significant the effect of reducing weight and waist circumference. In the LEAD-2 study, treatment with liraglutide 1.2mg or 1.8mg reduced the patient's visceral fat by 17.1% and 16.4%, respectively. Another GLP-1 receptor agonist, exenatide, has a slightly worse glucose-lowering effect and similar weight loss effect in a head-to-head clinical study compared with liraglutide. In addition, liraglutide (3.0mg/d) has been officially approved as a weight-loss drug in the United States, Canada, and the European Union."
+        }
+      ],
+      "paragraph_en": "GLP-1 receptor agonists mainly work by activating GLP-1 receptors. Because their glucose-lowering effect is dependent on glucose concentration, the incidence of hypoglycemia is extremely low. Whether used alone or in combination, liraglutide can significantly reduce HbA1c by 1.1%~1.6%, reduce body weight by 1.0-3.2kg, and permanently reduce the patient's waist circumference. The greater the baseline weight and waist circumference, the more significant the effect of reducing weight and waist circumference. In the LEAD-2 study, treatment with liraglutide 1.2mg or 1.8mg reduced the patient's visceral fat by 17.1% and 16.4%, respectively. Another GLP-1 receptor agonist, exenatide, has a slightly worse glucose-lowering effect and similar weight loss effect in a head-to-head clinical study compared with liraglutide. In addition, liraglutide (3.0mg/d) has been officially approved as a weight-loss drug in the United States, Canada, and the European Union."
+    },
+    {
+      "paragraph_id": "27",
+      "paragraph": "二甲双胍通过减少肝脏葡萄糖的输出和改善外周胰岛素抵抗而降低血糖，被多个国家的糖尿病诊治指南推荐为T2DM治疗一线用药。二甲双胍可降低HbA1c1.0%~1.5%，减轻体重约1.1kg。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "二甲双胍通过减少肝脏葡萄糖的输出和改善外周胰岛素抵抗而降低血糖，被多个国家的糖尿病诊治指南推荐为T2DM治疗一线用药。",
+          "start_idx": 0,
+          "end_idx": 59,
+          "entities": [
+            {
+              "entity_id": "T201",
+              "entity": "二甲双胍",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 4,
+              "entity_en": "Metformin"
+            },
+            {
+              "entity_id": "T202",
+              "entity": "外周胰岛素抵抗",
+              "entity_type": "Pathogenesis",
+              "start_idx": 19,
+              "end_idx": 26,
+              "entity_en": "Peripheral insulin resistance"
+            },
+            {
+              "entity_id": "T203",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 29,
+              "end_idx": 31,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T204",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 38,
+              "end_idx": 41,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T205",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 48,
+              "end_idx": 52,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T209",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 48,
+              "end_idx": 50,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Pathogenesis_Disease",
+              "relation_id": "R60",
+              "head_entity_id": "T202",
+              "tail_entity_id": "T205"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R61",
+              "head_entity_id": "T209",
+              "tail_entity_id": "T205"
+            }
+          ],
+          "sentence_en": "Metformin lowers blood sugar by reducing hepatic glucose output and improving peripheral insulin resistance, and is recommended as a first-line drug for the treatment of T2DM in diabetes diagnosis and treatment guidelines in many countries."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "二甲双胍可降低HbA1c1.0%~1.5%，减轻体重约1.1kg。",
+          "start_idx": 59,
+          "end_idx": 92,
+          "entities": [
+            {
+              "entity_id": "T206",
+              "entity": "二甲双胍",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 4,
+              "entity_en": "Metformin"
+            },
+            {
+              "entity_id": "T207",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 7,
+              "end_idx": 12,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T208",
+              "entity": "1.0%~1.5%",
+              "entity_type": "Test_Value",
+              "start_idx": 12,
+              "end_idx": 21,
+              "entity_en": "1.0%~1.5%"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "Metformin can reduce HbA1c by 1.0%~1.5% and reduce body weight by about 1.1kg."
+        }
+      ],
+      "paragraph_en": "Metformin lowers blood sugar by reducing the output of glucose in the liver and improving peripheral insulin resistance. It is recommended as a first-line drug for the treatment of T2DM in the diabetes diagnosis and treatment guidelines of many countries. Metformin can reduce HbA1c by 1.0%~1.5% and reduce body weight by about 1.1kg."
+    },
+    {
+      "paragraph_id": "28",
+      "paragraph": "α-糖苷酶抑制剂通过减慢碳水化合物在小肠上部的吸收速度而降低餐后血糖，可以使HbA1c下降0.5%~1.1%，对体重的影响呈中性或轻度减轻体重。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "α-糖苷酶抑制剂通过减慢碳水化合物在小肠上部的吸收速度而降低餐后血糖，可以使HbA1c下降0.5%~1.1%，对体重的影响呈中性或轻度减轻体重。",
+          "start_idx": 0,
+          "end_idx": 72,
+          "entities": [
+            {
+              "entity_id": "T210",
+              "entity": "α-糖苷酶抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 8,
+              "entity_en": "α-Glucosidase inhibitors"
+            },
+            {
+              "entity_id": "T211",
+              "entity": "餐后血糖",
+              "entity_type": "Test_items",
+              "start_idx": 30,
+              "end_idx": 34,
+              "entity_en": "Postprandial blood sugar"
+            },
+            {
+              "entity_id": "T212",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 38,
+              "end_idx": 43,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T213",
+              "entity": "下降0.5%~1.1%",
+              "entity_type": "Test_Value",
+              "start_idx": 43,
+              "end_idx": 54,
+              "entity_en": "Decrease by 0.5%~1.1%"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "α-Glucosidase inhibitors reduce postprandial blood sugar by slowing down the absorption of carbohydrates in the upper small intestine, which can reduce HbA1c by 0.5%~1.1%. The effect on body weight is neutral or mild weight loss."
+        }
+      ],
+      "paragraph_en": "α-Glucosidase inhibitors reduce postprandial blood sugar by slowing down the absorption of carbohydrates in the upper small intestine, which can reduce HbA1c by 0.5%~1.1%. The effect on body weight is neutral or mild weight loss."
+    },
+    {
+      "paragraph_id": "29",
+      "paragraph": "DPP-4抑制剂通过抑制DPP-4活性减少GLP-1在体内的失活，使内源性GLP-1水平升高，促进葡萄糖依赖的胰岛素分泌和抑制胰升糖素分泌，可降低HbA1c0.4%~1.0%。DPP-4抑制剂对体重的影响呈中性。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "DPP-4抑制剂通过抑制DPP-4活性减少GLP-1在体内的失活，使内源性GLP-1水平升高，促进葡萄糖依赖的胰岛素分泌和抑制胰升糖素分泌，可降低HbA1c0.4%~1.0%。",
+          "start_idx": 0,
+          "end_idx": 88,
+          "entities": [
+            {
+              "entity_id": "T214",
+              "entity": "DPP-4抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 8,
+              "entity_en": "DPP-4 inhibitors"
+            },
+            {
+              "entity_id": "T215",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 73,
+              "end_idx": 78,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T216",
+              "entity": "0.4%~1.0%",
+              "entity_type": "Test_Value",
+              "start_idx": 78,
+              "end_idx": 87,
+              "entity_en": "0.4%~1.0%"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "DPP-4 inhibitors reduce the inactivation of GLP-1 in the body by inhibiting DPP-4 activity, thereby increasing endogenous GLP-1 levels, promoting glucose-dependent insulin secretion and inhibiting glucagon secretion, and can reduce HbA1c by 0.4%~1.0%."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "DPP-4抑制剂对体重的影响呈中性。",
+          "start_idx": 88,
+          "end_idx": 106,
+          "entities": [
+            {
+              "entity_id": "T217",
+              "entity": "DPP-4抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 8,
+              "entity_en": "DPP-4 inhibitors"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "DPP-4 inhibitors have a neutral effect on body weight."
+        }
+      ],
+      "paragraph_en": "DPP-4 inhibitors reduce the inactivation of GLP-1 in the body by inhibiting DPP-4 activity, increasing endogenous GLP-1 levels, promoting glucose-dependent insulin secretion and inhibiting glucagon secretion, which can reduce HbA1c by 0.4%~1.0%. DPP-4 inhibitors have a neutral effect on body weight."
+    },
+    {
+      "paragraph_id": "30",
+      "paragraph": "SGLT-2抑制剂主要通过减少肾脏对葡萄糖的重吸收、增加葡萄精排泄而降低血糖水平。SGLT-2抑制剂可使HbA1c降低0.5%~1.0%，同时减轻患者体重(平均减少1.8kg)。由于SGLT-2抑制剂增加尿糖排出，会导致代偿性的食欲旺盛，故其减重作用需要配合控制饮食或其他类似手段。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "SGLT-2抑制剂主要通过减少肾脏对葡萄糖的重吸收、增加葡萄精排泄而降低血糖水平。SGLT-2抑制剂可使HbA1c降低0.5%~1.0%，同时减轻患者体重(平均减少1.8kg)。由于SGLT-2抑制剂增加尿糖排出，会导致代偿性的食欲旺盛，故其减重作用需要配合控制饮食或其他类似手段。",
+          "start_idx": 0,
+          "end_idx": 141,
+          "entities": [
+            {
+              "entity_id": "T218",
+              "entity": "SGLT-2抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 0,
+              "end_idx": 9,
+              "entity_en": "SGLT-2 inhibitors"
+            },
+            {
+              "entity_id": "T219",
+              "entity": "血糖水平",
+              "entity_type": "Test_items",
+              "start_idx": 36,
+              "end_idx": 40,
+              "entity_en": "Blood sugar levels"
+            },
+            {
+              "entity_id": "T220",
+              "entity": "SGLT-2抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 41,
+              "end_idx": 50,
+              "entity_en": "SGLT-2 inhibitors"
+            },
+            {
+              "entity_id": "T221",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 52,
+              "end_idx": 57,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T222",
+              "entity": "降低0.5%~1.0%",
+              "entity_type": "Test_Value",
+              "start_idx": 57,
+              "end_idx": 68,
+              "entity_en": "Reduce by 0.5%~1.0%"
+            },
+            {
+              "entity_id": "T223",
+              "entity": "SGLT-2抑制剂",
+              "entity_type": "Drug",
+              "start_idx": 91,
+              "end_idx": 100,
+              "entity_en": "SGLT-2 inhibitors"
+            },
+            {
+              "entity_id": "T224",
+              "entity": "代偿性的食欲旺盛",
+              "entity_type": "ADE",
+              "start_idx": 110,
+              "end_idx": 118,
+              "entity_en": "Compensatory appetite"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R62",
+              "head_entity_id": "T224",
+              "tail_entity_id": "T223"
+            }
+          ],
+          "sentence_en": "SGLT-2 inhibitors lower blood sugar levels mainly by reducing the renal reabsorption of glucose and increasing glucose excretion. SGLT-2 inhibitors can reduce HbA1c by 0.5% to 1.0% and reduce the patient's weight (average reduction of 1.8 kg). Since SGLT-2 inhibitors increase urinary sugar excretion, they can lead to compensatory appetite, so their weight loss effect needs to be combined with diet control or other similar means."
+        }
+      ],
+      "paragraph_en": "SGLT-2 inhibitors lower blood sugar levels mainly by reducing the renal reabsorption of glucose and increasing glucose excretion. SGLT-2 inhibitors can reduce HbA1c by 0.5% to 1.0% and reduce the patient's weight (average reduction of 1.8 kg). Since SGLT-2 inhibitors increase urinary sugar excretion, they can lead to compensatory appetite, so their weight loss effect needs to be combined with diet control or other similar means."
+    },
+    {
+      "paragraph_id": "31",
+      "paragraph": "四、手术治疗",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "四、手术治疗",
+          "start_idx": 0,
+          "end_idx": 6,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "4. Surgical treatment"
+        }
+      ],
+      "paragraph_en": "4. Surgical treatment"
+    },
+    {
+      "paragraph_id": "32",
+      "paragraph": "对于采取非手术治疗后减重或血糖控制效果不理想的T2DM合并肥胖患者，可以考虑手术治疗。减重手术可以改善T2DM合并肥胖患者的血糖控制，甚至使部分患者糖尿病“缓解”。手术治疗T2DM的前提是患者尚具备足够的胰岛β细胞功能。严格选择患者及适合的手术方式，充分进行术前评估和术前准备，并加强术后随访和营养、运动指导，是提高手术治疗T2DM有效性和安全性的关键。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "对于采取非手术治疗后减重或血糖控制效果不理想的T2DM合并肥胖患者，可以考虑手术治疗。减重手术可以改善T2DM合并肥胖患者的血糖控制，甚至使部分患者糖尿病“缓解”。手术治疗T2DM的前提是患者尚具备足够的胰岛β细胞功能。严格选择患者及适合的手术方式，充分进行术前评估和术前准备，并加强术后随访和营养、运动指导，是提高手术治疗T2DM有效性和安全性的关键。",
+          "start_idx": 0,
+          "end_idx": 177,
+          "entities": [
+            {
+              "entity_id": "T225",
+              "entity": "血糖控制",
+              "entity_type": "Test_items",
+              "start_idx": 13,
+              "end_idx": 17,
+              "entity_en": "Blood sugar control"
+            },
+            {
+              "entity_id": "T226",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 23,
+              "end_idx": 27,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T227",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 29,
+              "end_idx": 31,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T228",
+              "entity": "减重手术",
+              "entity_type": "Operation",
+              "start_idx": 43,
+              "end_idx": 47,
+              "entity_en": "Bariatric Surgery"
+            },
+            {
+              "entity_id": "T229",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 51,
+              "end_idx": 55,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T230",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 57,
+              "end_idx": 59,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T231",
+              "entity": "血糖控制",
+              "entity_type": "Test_items",
+              "start_idx": 62,
+              "end_idx": 66,
+              "entity_en": "Blood sugar control"
+            },
+            {
+              "entity_id": "T232",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 74,
+              "end_idx": 77,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T233",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 86,
+              "end_idx": 90,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T234",
+              "entity": "术后随访",
+              "entity_type": "Treatment",
+              "start_idx": 142,
+              "end_idx": 146,
+              "entity_en": "Postoperative follow-up"
+            },
+            {
+              "entity_id": "T235",
+              "entity": "营养、运动指导",
+              "entity_type": "Treatment",
+              "start_idx": 147,
+              "end_idx": 154,
+              "entity_en": "Nutrition and exercise guidance"
+            },
+            {
+              "entity_id": "T236",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 162,
+              "end_idx": 166,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T237",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 23,
+              "end_idx": 25,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T238",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 51,
+              "end_idx": 53,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T239",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 162,
+              "end_idx": 164,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T240",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 86,
+              "end_idx": 88,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R63",
+              "head_entity_id": "T225",
+              "tail_entity_id": "T226"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R64",
+              "head_entity_id": "T225",
+              "tail_entity_id": "T227"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R65",
+              "head_entity_id": "T237",
+              "tail_entity_id": "T226"
+            },
+            {
+              "relation_type": "Operation_Disease",
+              "relation_id": "R66",
+              "head_entity_id": "T228",
+              "tail_entity_id": "T229"
+            },
+            {
+              "relation_type": "Operation_Disease",
+              "relation_id": "R67",
+              "head_entity_id": "T228",
+              "tail_entity_id": "T230"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R68",
+              "head_entity_id": "T231",
+              "tail_entity_id": "T229"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R69",
+              "head_entity_id": "T238",
+              "tail_entity_id": "T229"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R70",
+              "head_entity_id": "T231",
+              "tail_entity_id": "T230"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R71",
+              "head_entity_id": "T240",
+              "tail_entity_id": "T233"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R72",
+              "head_entity_id": "T234",
+              "tail_entity_id": "T236"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R73",
+              "head_entity_id": "T235",
+              "tail_entity_id": "T236"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R74",
+              "head_entity_id": "T239",
+              "tail_entity_id": "T236"
+            }
+          ],
+          "sentence_en": "For patients with T2DM and obesity who have unsatisfactory weight loss or blood sugar control after non-surgical treatment, surgical treatment can be considered. Weight loss surgery can improve blood sugar control in patients with T2DM and obesity, and even \"relieve\" diabetes in some patients. The premise of surgical treatment of T2DM is that the patient still has sufficient pancreatic beta cell function. Strict selection of patients and appropriate surgical methods, adequate preoperative evaluation and preoperative preparation, and strengthening postoperative follow-up and nutrition and exercise guidance are the key to improving the effectiveness and safety of surgical treatment of T2DM."
+        }
+      ],
+      "paragraph_en": "For patients with T2DM and obesity who have unsatisfactory weight loss or blood sugar control after non-surgical treatment, surgical treatment can be considered. Weight loss surgery can improve blood sugar control in patients with T2DM and obesity, and even \"relieve\" diabetes in some patients. The premise of surgical treatment of T2DM is that the patient still has sufficient pancreatic beta cell function. Strict selection of patients and appropriate surgical methods, adequate preoperative evaluation and preoperative preparation, and strengthening postoperative follow-up and nutrition and exercise guidance are the key to improving the effectiveness and safety of surgical treatment of T2DM."
+    },
+    {
+      "paragraph_id": "33",
+      "paragraph": "(一)适应证",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(一)适应证",
+          "start_idx": 0,
+          "end_idx": 6,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "(I) Indications"
+        }
+      ],
+      "paragraph_en": "(I) Indications"
+    },
+    {
+      "paragraph_id": "34",
+      "paragraph": "1.年龄在18~60岁，一般状况较好，手术风险较低，经生活方式干预和各种药物治疗难以控制的2型糖尿病患者(HbA1c>7.0%)。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "1.年龄在18~60岁，一般状况较好，手术风险较低，经生活方式干预和各种药物治疗难以控制的2型糖尿病患者(HbA1c>7.0%)。",
+          "start_idx": 0,
+          "end_idx": 65,
+          "entities": [
+            {
+              "entity_id": "T241",
+              "entity": "2型糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 45,
+              "end_idx": 50,
+              "entity_en": "Type 2 diabetes"
+            },
+            {
+              "entity_id": "T242",
+              "entity": "2型",
+              "entity_type": "Class",
+              "start_idx": 45,
+              "end_idx": 47,
+              "entity_en": "Type 2"
+            },
+            {
+              "entity_id": "T243",
+              "entity": "生活方式干预",
+              "entity_type": "Treatment",
+              "start_idx": 27,
+              "end_idx": 33,
+              "entity_en": "Lifestyle interventions"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R75",
+              "head_entity_id": "T242",
+              "tail_entity_id": "T241"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R76",
+              "head_entity_id": "T243",
+              "tail_entity_id": "T241"
+            }
+          ],
+          "sentence_en": "1. Patients aged 18 to 60 years old, in good general condition, with low surgical risk, and whose type 2 diabetes (HbA1c>7.0%) is difficult to control after lifestyle intervention and various drug treatments."
+        }
+      ],
+      "paragraph_en": "1. Patients aged 18 to 60 years old, in good general condition, with low surgical risk, and whose type 2 diabetes (HbA1c>7.0%) is difficult to control after lifestyle intervention and various drug treatments."
+    },
+    {
+      "paragraph_id": "35",
+      "paragraph": "2.根据患者的BMI和临床情况来判断是否行手术治疗：(1)积极手术：BMl≥32kg/m2，无论是否存在其他合并症(阻塞性睡眠呼吸暂停综合征、非酒精性脂肪性肝炎、高尿酸血症、多囊卵巢综合征、肾功能异常等)；(2)慎重手术：BMI28~32kg/m2，至少符合额外的2个代谢综合征组分，或存在合并症；(3)暂不推荐：BMI25~28kg/m2。如果患者合并腹型肥胖，且至少符合额外的2个代谢综合征组分，可酌情提高手术推荐等级。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "2.根据患者的BMI和临床情况来判断是否行手术治疗：(1)积极手术：BMl≥32kg/m2，无论是否存在其他合并症(阻塞性睡眠呼吸暂停综合征、非酒精性脂肪性肝炎、高尿酸血症、多囊卵巢综合征、肾功能异常等)；(2)慎重手术：BMI28~32kg/m2，至少符合额外的2个代谢综合征组分，或存在合并症；(3)暂不推荐：BMI25~28kg/m2。",
+          "start_idx": 0,
+          "end_idx": 171,
+          "entities": [
+            {
+              "entity_id": "T244",
+              "entity": "阻塞性睡眠呼吸暂停综合征",
+              "entity_type": "Disease",
+              "start_idx": 58,
+              "end_idx": 70,
+              "entity_en": "Obstructive sleep apnea syndrome"
+            },
+            {
+              "entity_id": "T245",
+              "entity": "非酒精性脂肪性肝炎",
+              "entity_type": "Disease",
+              "start_idx": 71,
+              "end_idx": 80,
+              "entity_en": "Nonalcoholic steatohepatitis"
+            },
+            {
+              "entity_id": "T246",
+              "entity": "肝",
+              "entity_type": "Anatomy",
+              "start_idx": 78,
+              "end_idx": 79,
+              "entity_en": "liver"
+            },
+            {
+              "entity_id": "T247",
+              "entity": "高尿酸血症",
+              "entity_type": "Disease",
+              "start_idx": 81,
+              "end_idx": 86,
+              "entity_en": "Hyperuricemia"
+            },
+            {
+              "entity_id": "T248",
+              "entity": "多囊卵巢综合征",
+              "entity_type": "Disease",
+              "start_idx": 87,
+              "end_idx": 94,
+              "entity_en": "Polycystic ovary syndrome"
+            },
+            {
+              "entity_id": "T249",
+              "entity": "卵巢",
+              "entity_type": "Anatomy",
+              "start_idx": 89,
+              "end_idx": 91,
+              "entity_en": "Ovaries"
+            },
+            {
+              "entity_id": "T250",
+              "entity": "肾功能异常",
+              "entity_type": "Disease",
+              "start_idx": 95,
+              "end_idx": 100,
+              "entity_en": "Abnormal renal function"
+            },
+            {
+              "entity_id": "T251",
+              "entity": "肾",
+              "entity_type": "Anatomy",
+              "start_idx": 95,
+              "end_idx": 96,
+              "entity_en": "kidney"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R77",
+              "head_entity_id": "T246",
+              "tail_entity_id": "T245"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R78",
+              "head_entity_id": "T249",
+              "tail_entity_id": "T248"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R79",
+              "head_entity_id": "T251",
+              "tail_entity_id": "T250"
+            }
+          ],
+          "sentence_en": "2. Determine whether to undergo surgical treatment based on the patient's BMI and clinical condition: (1) Active surgery: BMI ≥ 32 kg/m2, regardless of the presence of other comorbidities (obstructive sleep apnea syndrome, nonalcoholic fatty liver disease, hyperuricemia, polycystic ovary syndrome, renal dysfunction, etc.); (2) Cautious surgery: BMI 28-32 kg/m2, at least 2 additional metabolic syndrome components, or the presence of comorbidities; (3) Not recommended: BMI 25-28 kg/m2."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "如果患者合并腹型肥胖，且至少符合额外的2个代谢综合征组分，可酌情提高手术推荐等级。",
+          "start_idx": 171,
+          "end_idx": 212,
+          "entities": [
+            {
+              "entity_id": "T252",
+              "entity": "腹型肥胖",
+              "entity_type": "Disease",
+              "start_idx": 6,
+              "end_idx": 10,
+              "entity_en": "Abdominal obesity"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "If the patient has abdominal obesity and meets at least two additional components of metabolic syndrome, the recommendation level for surgery can be increased as appropriate."
+        }
+      ],
+      "paragraph_en": "2. Determine whether to undergo surgery based on the patient's BMI and clinical condition: (1) Active surgery: BMI ≥ 32 kg/m2, regardless of the presence of other comorbidities (obstructive sleep apnea syndrome, nonalcoholic steatohepatitis, hyperuricemia, polycystic ovary syndrome, renal dysfunction, etc.); (2) Cautious surgery: BMI 28-32 kg/m2, at least 2 additional metabolic syndrome components, or comorbidities; (3) Not recommended: BMI 25-28 kg/m2. If the patient has abdominal obesity and at least 2 additional metabolic syndrome components, the surgical recommendation level can be increased as appropriate."
+    },
+    {
+      "paragraph_id": "36",
+      "paragraph": "腹腔镜袖状胃切除术(laparoscopic sleeve gastrectomy，LSG)是中重度T2DM合并肥胖的首选术式；胃旁路术(roux-en-Y gastric、bypass，RYGB)适用于T2DM病程相对较长、需要减重更多的患者。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "腹腔镜袖状胃切除术(laparoscopic sleeve gastrectomy，LSG)是中重度T2DM合并肥胖的首选术式；胃旁路术(roux-en-Y gastric、bypass，RYGB)适用于T2DM病程相对较长、需要减重更多的患者。",
+          "start_idx": 0,
+          "end_idx": 123,
+          "entities": [
+            {
+              "entity_id": "T253",
+              "entity": "腹腔镜袖状胃切除术(laparoscopic sleeve gastrectomy，LSG)",
+              "entity_type": "Operation",
+              "start_idx": 0,
+              "end_idx": 46,
+              "entity_en": "Laparoscopic sleeve gastrectomy (LSG)"
+            },
+            {
+              "entity_id": "T254",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 50,
+              "end_idx": 54,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T255",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 56,
+              "end_idx": 58,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T256",
+              "entity": "中重度",
+              "entity_type": "Level",
+              "start_idx": 47,
+              "end_idx": 50,
+              "entity_en": "Moderate to severe"
+            },
+            {
+              "entity_id": "T257",
+              "entity": "胃旁路术(roux-en-Y gastric、bypass，RYGB)",
+              "entity_type": "Operation",
+              "start_idx": 64,
+              "end_idx": 99,
+              "entity_en": "Gastric bypass (RYGB)"
+            },
+            {
+              "entity_id": "T258",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 102,
+              "end_idx": 106,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T259",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 50,
+              "end_idx": 52,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T260",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 102,
+              "end_idx": 104,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Operation_Disease",
+              "relation_id": "R80",
+              "head_entity_id": "T253",
+              "tail_entity_id": "T254"
+            },
+            {
+              "relation_type": "Operation_Disease",
+              "relation_id": "R81",
+              "head_entity_id": "T253",
+              "tail_entity_id": "T255"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R82",
+              "head_entity_id": "T259",
+              "tail_entity_id": "T254"
+            },
+            {
+              "relation_type": "Operation_Disease",
+              "relation_id": "R83",
+              "head_entity_id": "T257",
+              "tail_entity_id": "T258"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R84",
+              "head_entity_id": "T260",
+              "tail_entity_id": "T258"
+            }
+          ],
+          "sentence_en": "Laparoscopic sleeve gastrectomy (LSG) is the preferred surgical procedure for moderate to severe T2DM combined with obesity; roux-en-Y gastric bypass (RYGB) is suitable for patients with relatively long-term T2DM and who need to lose more weight."
+        }
+      ],
+      "paragraph_en": "Laparoscopic sleeve gastrectomy (LSG) is the preferred surgical procedure for moderate to severe T2DM combined with obesity; roux-en-Y gastric bypass (RYGB) is suitable for patients with relatively long-term T2DM and who need to lose more weight."
+    },
+    {
+      "paragraph_id": "37",
+      "paragraph": "(二)禁忌证",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(二)禁忌证",
+          "start_idx": 0,
+          "end_idx": 6,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "(II) Contraindications"
+        }
+      ],
+      "paragraph_en": "(II) Contraindications"
+    },
+    {
+      "paragraph_id": "38",
+      "paragraph": "1.滥用药物、酒精成瘾、患有难以控制的精神疾病患者，以及对减重手术的风险、益处、预期后果缺乏理解能力的患者。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "1.滥用药物、酒精成瘾、患有难以控制的精神疾病患者，以及对减重手术的风险、益处、预期后果缺乏理解能力的患者。",
+          "start_idx": 0,
+          "end_idx": 54,
+          "entities": [
+            {
+              "entity_id": "T261",
+              "entity": "精神疾病",
+              "entity_type": "Disease",
+              "start_idx": 19,
+              "end_idx": 23,
+              "entity_en": "Mental illness"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "1. Patients who abuse drugs, are addicted to alcohol, suffer from difficult-to-control mental illness, and lack the ability to understand the risks, benefits, and expected consequences of weight loss surgery."
+        }
+      ],
+      "paragraph_en": "1. Patients who abuse drugs, are addicted to alcohol, suffer from difficult-to-control mental illness, and lack the ability to understand the risks, benefits, and expected consequences of weight loss surgery."
+    },
+    {
+      "paragraph_id": "39",
+      "paragraph": "2.明确诊断为1型糖尿病的患者。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "2.明确诊断为1型糖尿病的患者。",
+          "start_idx": 0,
+          "end_idx": 16,
+          "entities": [
+            {
+              "entity_id": "T262",
+              "entity": "1型糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 7,
+              "end_idx": 12,
+              "entity_en": "Type 1 diabetes"
+            },
+            {
+              "entity_id": "T263",
+              "entity": "1型",
+              "entity_type": "Class",
+              "start_idx": 7,
+              "end_idx": 9,
+              "entity_en": "Type 1"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R85",
+              "head_entity_id": "T263",
+              "tail_entity_id": "T262"
+            }
+          ],
+          "sentence_en": "2. Patients diagnosed with type 1 diabetes."
+        }
+      ],
+      "paragraph_en": "2. Patients diagnosed with type 1 diabetes."
+    },
+    {
+      "paragraph_id": "40",
+      "paragraph": "3.胰岛β细胞功能已明显衰竭的2型糖尿病患者。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "3.胰岛β细胞功能已明显衰竭的2型糖尿病患者。",
+          "start_idx": 0,
+          "end_idx": 23,
+          "entities": [
+            {
+              "entity_id": "T264",
+              "entity": "胰岛β细胞功能已明显衰竭",
+              "entity_type": "Pathogenesis",
+              "start_idx": 2,
+              "end_idx": 14,
+              "entity_en": "Pancreatic β-cell function has been significantly impaired"
+            },
+            {
+              "entity_id": "T265",
+              "entity": "2型糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 15,
+              "end_idx": 20,
+              "entity_en": "Type 2 diabetes"
+            },
+            {
+              "entity_id": "T266",
+              "entity": "2型",
+              "entity_type": "Class",
+              "start_idx": 15,
+              "end_idx": 17,
+              "entity_en": "Type 2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Pathogenesis_Disease",
+              "relation_id": "R86",
+              "head_entity_id": "T264",
+              "tail_entity_id": "T265"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R87",
+              "head_entity_id": "T266",
+              "tail_entity_id": "T265"
+            }
+          ],
+          "sentence_en": "3. Patients with type 2 diabetes whose pancreatic β-cell function has been significantly impaired."
+        }
+      ],
+      "paragraph_en": "3. Patients with type 2 diabetes whose pancreatic β-cell function has been significantly impaired."
+    },
+    {
+      "paragraph_id": "41",
+      "paragraph": "4.外科手术禁忌者。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "4.外科手术禁忌者。",
+          "start_idx": 0,
+          "end_idx": 10,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "4. Patients with contraindications to surgical operation."
+        }
+      ],
+      "paragraph_en": "4. Patients with contraindications to surgical operation."
+    },
+    {
+      "paragraph_id": "42",
+      "paragraph": "5.BMI<25kg/m2。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "5.BMI<25kg/m2。",
+          "start_idx": 0,
+          "end_idx": 14,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "5.BMI<25kg/m2."
+        }
+      ],
+      "paragraph_en": "5.BMI<25kg/m2."
+    },
+    {
+      "paragraph_id": "43",
+      "paragraph": "6.妊娠糖尿病及其他特殊类型的糖尿病。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "6.妊娠糖尿病及其他特殊类型的糖尿病。",
+          "start_idx": 0,
+          "end_idx": 19,
+          "entities": [
+            {
+              "entity_id": "T267",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 15,
+              "end_idx": 18,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T268",
+              "entity": "妊娠糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 7,
+              "entity_en": "Gestational diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "6. Gestational diabetes and other special types of diabetes."
+        }
+      ],
+      "paragraph_en": "6. Gestational diabetes and other special types of diabetes."
+    },
+    {
+      "paragraph_id": "44",
+      "paragraph": "五、血糖和体重监测",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "五、血糖和体重监测",
+          "start_idx": 0,
+          "end_idx": 9,
+          "entities": [
+            {
+              "entity_id": "T269",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "blood sugar"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "5. Blood sugar and weight monitoring"
+        }
+      ],
+      "paragraph_en": "5. Blood sugar and weight monitoring"
+    },
+    {
+      "paragraph_id": "45",
+      "paragraph": "(一)血糖监测",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(一)血糖监测",
+          "start_idx": 0,
+          "end_idx": 7,
+          "entities": [
+            {
+              "entity_id": "T270",
+              "entity": "血糖监测",
+              "entity_type": "Test_items",
+              "start_idx": 3,
+              "end_idx": 7,
+              "entity_en": "Blood glucose monitoring"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "1. Blood glucose monitoring"
+        }
+      ],
+      "paragraph_en": "1. Blood glucose monitoring"
+    },
+    {
+      "paragraph_id": "46",
+      "paragraph": "HbA1c反映近2~3个月血糖平均水平，是评价长期血糖控制的金标准，也是指导临床调整治疗方案的重要依据。在治疗初期建议每3个月检测1次，一旦达到治疗目标可每6个月检查一次。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "HbA1c反映近2~3个月血糖平均水平，是评价长期血糖控制的金标准，也是指导临床调整治疗方案的重要依据。",
+          "start_idx": 0,
+          "end_idx": 52,
+          "entities": [
+            {
+              "entity_id": "T271",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 0,
+              "end_idx": 5,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T272",
+              "entity": "血糖平均水平",
+              "entity_type": "Test_items",
+              "start_idx": 13,
+              "end_idx": 19,
+              "entity_en": "Average blood sugar level"
+            },
+            {
+              "entity_id": "T273",
+              "entity": "长期血糖控制",
+              "entity_type": "Test_items",
+              "start_idx": 23,
+              "end_idx": 29,
+              "entity_en": "Long-term blood sugar control"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "HbA1c reflects the average blood sugar level in the past 2 to 3 months. It is the gold standard for evaluating long-term blood sugar control and an important basis for guiding clinical adjustments to treatment plans."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "在治疗初期建议每3个月检测1次，一旦达到治疗目标可每6个月检查一次。",
+          "start_idx": 52,
+          "end_idx": 86,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "It is recommended to test once every 3 months in the early stage of treatment, and once the treatment goal is achieved, it can be checked every 6 months."
+        }
+      ],
+      "paragraph_en": "HbA1c reflects the average blood sugar level in the past 2 to 3 months. It is the gold standard for evaluating long-term blood sugar control and an important basis for guiding clinical adjustment of treatment plans. It is recommended to test once every 3 months in the early stage of treatment, and once the treatment goal is achieved, it can be checked every 6 months."
+    },
+    {
+      "paragraph_id": "47",
+      "paragraph": "(二)体重监测",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "(二)体重监测",
+          "start_idx": 0,
+          "end_idx": 7,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "(ii) Weight monitoring"
+        }
+      ],
+      "paragraph_en": "(ii) Weight monitoring"
+    },
+    {
+      "paragraph_id": "48",
+      "paragraph": "1.作为一种慢性疾病，为了预防体重再次增加和防治并发疾病，体重长期监测必不可少。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "1.作为一种慢性疾病，为了预防体重再次增加和防治并发疾病，体重长期监测必不可少。",
+          "start_idx": 0,
+          "end_idx": 40,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "1. As a chronic disease, long-term weight monitoring is essential to prevent weight gain again and prevent and treat complications."
+        }
+      ],
+      "paragraph_en": "1. As a chronic disease, long-term weight monitoring is essential to prevent weight gain again and prevent and treat complications."
+    },
+    {
+      "paragraph_id": "49",
+      "paragraph": "2.有效性评估：建议糖尿病合并肥胖患者体重降幅至少>3%。采用药物治疗3个月后对疗效进行评价：体重下降2%~3%为不显著：体重下降3%~5%为显著：体重下降>5%为非常显著。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "2.有效性评估：建议糖尿病合并肥胖患者体重降幅至少>3%。",
+          "start_idx": 0,
+          "end_idx": 29,
+          "entities": [
+            {
+              "entity_id": "T274",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 10,
+              "end_idx": 13,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T275",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 15,
+              "end_idx": 17,
+              "entity_en": "obesity"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "2. Effectiveness evaluation: It is recommended that patients with diabetes and obesity lose at least 3% of their body weight."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "采用药物治疗3个月后对疗效进行评价：体重下降2%~3%为不显著：体重下降3%~5%为显著：体重下降>5%为非常显著。",
+          "start_idx": 29,
+          "end_idx": 87,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "The efficacy of drug treatment was evaluated after 3 months: a weight loss of 2% to 3% was not significant; a weight loss of 3% to 5% was significant; and a weight loss of >5% was very significant."
+        }
+      ],
+      "paragraph_en": "2. Effectiveness evaluation: It is recommended that patients with diabetes and obesity lose at least 3% of their body weight. The efficacy is evaluated after 3 months of drug treatment: a 2% to 3% weight loss is not significant; a 3% to 5% weight loss is significant; and a weight loss of >5% is very significant."
+    },
+    {
+      "paragraph_id": "50",
+      "paragraph": "3.在6个月时间达到5%~15%的体重下降；重度肥胖(如BMI>35kg/m2)可能需要更多(20%或以上)的体重减轻。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "3.在6个月时间达到5%~15%的体重下降；重度肥胖(如BMI>35kg/m2)可能需要更多(20%或以上)的体重减轻。",
+          "start_idx": 0,
+          "end_idx": 60,
+          "entities": [
+            {
+              "entity_id": "T276",
+              "entity": "重度",
+              "entity_type": "Level",
+              "start_idx": 22,
+              "end_idx": 24,
+              "entity_en": "Severe"
+            },
+            {
+              "entity_id": "T277",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 24,
+              "end_idx": 26,
+              "entity_en": "obesity"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "3. Achieve a 5% to 15% weight loss in 6 months; severe obesity (such as BMI>35kg/m2) may require more (20% or more) weight loss."
+        }
+      ],
+      "paragraph_en": "3. Achieve a 5% to 15% weight loss in 6 months; severe obesity (such as BMI>35kg/m2) may require more (20% or more) weight loss."
+    },
+    {
+      "paragraph_id": "51",
+      "paragraph": "4.对于接受手术治疗的患者，在术后第1年至少要进行3次门诊随访，还需要更多的电话或其他方式的随访。对于可调节胃绑带术的患者，门诊随访的次数可能需要增加，以便对绑带进行适当的调节。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "4.对于接受手术治疗的患者，在术后第1年至少要进行3次门诊随访，还需要更多的电话或其他方式的随访。",
+          "start_idx": 0,
+          "end_idx": 49,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "4. For patients who receive surgical treatment, at least three outpatient follow-up visits are required in the first year after surgery, and more follow-up visits by telephone or other means are required."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "对于可调节胃绑带术的患者，门诊随访的次数可能需要增加，以便对绑带进行适当的调节。",
+          "start_idx": 49,
+          "end_idx": 89,
+          "entities": [
+            {
+              "entity_id": "T278",
+              "entity": "可调节胃绑带术",
+              "entity_type": "Operation",
+              "start_idx": 2,
+              "end_idx": 9,
+              "entity_en": "Adjustable gastric banding"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "For patients who have an adjustable gastric band, outpatient follow-up visits may need to be increased in order to adjust the band appropriately."
+        }
+      ],
+      "paragraph_en": "4. For patients who undergo surgical treatment, at least 3 outpatient follow-up visits are required in the first year after surgery, and more follow-up visits by telephone or other means are required. For patients who undergo adjustable gastric banding, the number of outpatient follow-up visits may need to be increased to allow for appropriate adjustment of the band."
+    },
+    {
+      "paragraph_id": "52",
+      "paragraph": "六、T2DM合并肥胖心血管风险因素的控制",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "六、T2DM合并肥胖心血管风险因素的控制",
+          "start_idx": 0,
+          "end_idx": 20,
+          "entities": [
+            {
+              "entity_id": "T279",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 6,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T280",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 8,
+              "end_idx": 10,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T281",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 2,
+              "end_idx": 4,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R88",
+              "head_entity_id": "T281",
+              "tail_entity_id": "T279"
+            }
+          ],
+          "sentence_en": "VI. Control of cardiovascular risk factors in patients with T2DM and obesity"
+        }
+      ],
+      "paragraph_en": "VI. Control of cardiovascular risk factors in patients with T2DM and obesity"
+    },
+    {
+      "paragraph_id": "4",
+      "paragraph": "体重增加是T2DM发生的独立危险因素。体重或腰围增加均可加重胰岛素抵抗，增加T2DM的发生风险，以及血糖控制的难度。与单纯肥胖的患者相比，T2DM合并肥胖患者减重并维持体重更加困难。首先，肥胖患者的胰岛素水平显著增高，而胰岛素具有抑制脂肪分解、促进脂肪合成的作用。其次，肥胖本身与糖尿病患者存在的其他代谢异常协同作用可加重T2DM的胰岛素抵抗，而内脏脂肪增加可能是肥胖患者发生胰岛素抵抗的主要原因。减轻体重可以改善胰岛素抵抗、降低血糖和改善心血管疾病的危险因素，超重和肥胖T2DM患者减重3%~5%，即能产生血糖、HbA1c、血压、甘油三酯(triglyceride，TG)均显著降低等具有临床意义的健康获益，并且提高生活质量。在一定范围内，减重越多，获益越大。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "体重增加是T2DM发生的独立危险因素。体重或腰围增加均可加重胰岛素抵抗，增加T2DM的发生风险，以及血糖控制的难度。与单纯肥胖的患者相比，T2DM合并肥胖患者减重并维持体重更加困难。首先，肥胖患者的胰岛素水平显著增高，而胰岛素具有抑制脂肪分解、促进脂肪合成的作用。其次，肥胖本身与糖尿病患者存在的其他代谢异常协同作用可加重T2DM的胰岛素抵抗，而内脏脂肪增加可能是肥胖患者发生胰岛素抵抗的主要原因。减轻体重可以改善胰岛素抵抗、降低血糖和改善心血管疾病的危险因素，超重和肥胖T2DM患者减重3%~5%，即能产生血糖、HbA1c、血压、甘油三酯(triglyceride，TG)均显著降低等具有临床意义的健康获益，并且提高生活质量。",
+          "start_idx": 0,
+          "end_idx": 314,
+          "entities": [
+            {
+              "entity_id": "T282",
+              "entity": "体重增加",
+              "entity_type": "Reason",
+              "start_idx": 0,
+              "end_idx": 4,
+              "entity_en": "Weight gain"
+            },
+            {
+              "entity_id": "T283",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 5,
+              "end_idx": 9,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T284",
+              "entity": "体重或腰围增加",
+              "entity_type": "Reason",
+              "start_idx": 19,
+              "end_idx": 26,
+              "entity_en": "Increased weight or waist circumference"
+            },
+            {
+              "entity_id": "T285",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 38,
+              "end_idx": 42,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T286",
+              "entity": "胰岛素抵抗",
+              "entity_type": "Pathogenesis",
+              "start_idx": 30,
+              "end_idx": 35,
+              "entity_en": "Insulin resistance"
+            },
+            {
+              "entity_id": "T287",
+              "entity": "血糖控制",
+              "entity_type": "Test_items",
+              "start_idx": 50,
+              "end_idx": 54,
+              "entity_en": "Blood sugar control"
+            },
+            {
+              "entity_id": "T288",
+              "entity": "单纯肥胖",
+              "entity_type": "Disease",
+              "start_idx": 59,
+              "end_idx": 63,
+              "entity_en": "Simple obesity"
+            },
+            {
+              "entity_id": "T289",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 69,
+              "end_idx": 73,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T290",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 75,
+              "end_idx": 77,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T291",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 94,
+              "end_idx": 96,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T292",
+              "entity": "胰岛素水平",
+              "entity_type": "Test_items",
+              "start_idx": 99,
+              "end_idx": 104,
+              "entity_en": "Insulin levels"
+            },
+            {
+              "entity_id": "T293",
+              "entity": "显著增高",
+              "entity_type": "Test_Value",
+              "start_idx": 104,
+              "end_idx": 108,
+              "entity_en": "Significantly increased"
+            },
+            {
+              "entity_id": "T294",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 135,
+              "end_idx": 137,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T295",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 140,
+              "end_idx": 143,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T296",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 161,
+              "end_idx": 165,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T297",
+              "entity": "胰岛素抵抗",
+              "entity_type": "Pathogenesis",
+              "start_idx": 166,
+              "end_idx": 171,
+              "entity_en": "Insulin resistance"
+            },
+            {
+              "entity_id": "T298",
+              "entity": "内脏脂肪增加",
+              "entity_type": "Reason",
+              "start_idx": 173,
+              "end_idx": 179,
+              "entity_en": "Increased visceral fat"
+            },
+            {
+              "entity_id": "T299",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 182,
+              "end_idx": 184,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T300",
+              "entity": "胰岛素抵抗",
+              "entity_type": "Pathogenesis",
+              "start_idx": 188,
+              "end_idx": 193,
+              "entity_en": "Insulin resistance"
+            },
+            {
+              "entity_id": "T301",
+              "entity": "减轻体重",
+              "entity_type": "Treatment",
+              "start_idx": 199,
+              "end_idx": 203,
+              "entity_en": "Lose weight"
+            },
+            {
+              "entity_id": "T302",
+              "entity": "胰岛素抵抗",
+              "entity_type": "Pathogenesis",
+              "start_idx": 207,
+              "end_idx": 212,
+              "entity_en": "Insulin resistance"
+            },
+            {
+              "entity_id": "T303",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 215,
+              "end_idx": 217,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T304",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 231,
+              "end_idx": 233,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T305",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 234,
+              "end_idx": 236,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T306",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 236,
+              "end_idx": 240,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T307",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 254,
+              "end_idx": 256,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T308",
+              "entity": "HbA1c",
+              "entity_type": "Test_items",
+              "start_idx": 257,
+              "end_idx": 262,
+              "entity_en": "HbA1c"
+            },
+            {
+              "entity_id": "T309",
+              "entity": "血压",
+              "entity_type": "Test_items",
+              "start_idx": 263,
+              "end_idx": 265,
+              "entity_en": "blood pressure"
+            },
+            {
+              "entity_id": "T310",
+              "entity": "甘油三酯(triglyceride，TG)",
+              "entity_type": "Test_items",
+              "start_idx": 266,
+              "end_idx": 287,
+              "entity_en": "Triglyceride (TG)"
+            },
+            {
+              "entity_id": "T311",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 5,
+              "end_idx": 7,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T312",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 69,
+              "end_idx": 71,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T313",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 38,
+              "end_idx": 40,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T314",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 161,
+              "end_idx": 163,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T315",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 236,
+              "end_idx": 238,
+              "entity_en": "T2"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Reason_Disease",
+              "relation_id": "R89",
+              "head_entity_id": "T282",
+              "tail_entity_id": "T283"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R90",
+              "head_entity_id": "T311",
+              "tail_entity_id": "T283"
+            },
+            {
+              "relation_type": "Reason_Disease",
+              "relation_id": "R91",
+              "head_entity_id": "T284",
+              "tail_entity_id": "T285"
+            },
+            {
+              "relation_type": "Pathogenesis_Disease",
+              "relation_id": "R92",
+              "head_entity_id": "T286",
+              "tail_entity_id": "T285"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R93",
+              "head_entity_id": "T287",
+              "tail_entity_id": "T285"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R94",
+              "head_entity_id": "T313",
+              "tail_entity_id": "T285"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R95",
+              "head_entity_id": "T312",
+              "tail_entity_id": "T289"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R96",
+              "head_entity_id": "T292",
+              "tail_entity_id": "T291"
+            },
+            {
+              "relation_type": "Pathogenesis_Disease",
+              "relation_id": "R97",
+              "head_entity_id": "T297",
+              "tail_entity_id": "T296"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R98",
+              "head_entity_id": "T314",
+              "tail_entity_id": "T296"
+            },
+            {
+              "relation_type": "Reason_Disease",
+              "relation_id": "R99",
+              "head_entity_id": "T298",
+              "tail_entity_id": "T299"
+            },
+            {
+              "relation_type": "Pathogenesis_Disease",
+              "relation_id": "R100",
+              "head_entity_id": "T300",
+              "tail_entity_id": "T299"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R101",
+              "head_entity_id": "T301",
+              "tail_entity_id": "T304"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R102",
+              "head_entity_id": "T301",
+              "tail_entity_id": "T305"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R103",
+              "head_entity_id": "T301",
+              "tail_entity_id": "T306"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R104",
+              "head_entity_id": "T307",
+              "tail_entity_id": "T304"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R105",
+              "head_entity_id": "T308",
+              "tail_entity_id": "T304"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R106",
+              "head_entity_id": "T309",
+              "tail_entity_id": "T304"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R107",
+              "head_entity_id": "T310",
+              "tail_entity_id": "T304"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R108",
+              "head_entity_id": "T307",
+              "tail_entity_id": "T305"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R109",
+              "head_entity_id": "T308",
+              "tail_entity_id": "T305"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R110",
+              "head_entity_id": "T309",
+              "tail_entity_id": "T305"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R111",
+              "head_entity_id": "T310",
+              "tail_entity_id": "T305"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R112",
+              "head_entity_id": "T309",
+              "tail_entity_id": "T306"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R113",
+              "head_entity_id": "T308",
+              "tail_entity_id": "T306"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R114",
+              "head_entity_id": "T307",
+              "tail_entity_id": "T306"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R115",
+              "head_entity_id": "T310",
+              "tail_entity_id": "T306"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R116",
+              "head_entity_id": "T315",
+              "tail_entity_id": "T306"
+            }
+          ],
+          "sentence_en": "Weight gain is an independent risk factor for the development of T2DM. Increased weight or waist circumference can aggravate insulin resistance, increase the risk of T2DM, and make blood sugar control more difficult. Compared with patients with simple obesity, it is more difficult for patients with T2DM and obesity to lose weight and maintain weight. First, the insulin level of obese patients is significantly increased, and insulin has the effect of inhibiting fat decomposition and promoting fat synthesis. Secondly, obesity itself and other metabolic abnormalities in diabetic patients can synergistically aggravate insulin resistance in T2DM, and increased visceral fat may be the main cause of insulin resistance in obese patients. Weight loss can improve insulin resistance, lower blood sugar and improve risk factors for cardiovascular disease. Overweight and obese T2DM patients who lose 3% to 5% weight can produce clinically significant health benefits such as significant reductions in blood sugar, HbA1c, blood pressure, and triglycerides (TG), and improve quality of life."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "在一定范围内，减重越多，获益越大。",
+          "start_idx": 314,
+          "end_idx": 331,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Within a certain range, the more weight you lose, the greater the benefits."
+        }
+      ],
+      "paragraph_en": "Weight gain is an independent risk factor for the development of T2DM. Increased weight or waist circumference can aggravate insulin resistance, increase the risk of T2DM, and make blood sugar control more difficult. Compared with patients with simple obesity, it is more difficult for patients with T2DM and obesity to lose weight and maintain weight. First, the insulin level of obese patients is significantly increased, and insulin has the effect of inhibiting fat decomposition and promoting fat synthesis. Secondly, obesity itself and other metabolic abnormalities in diabetic patients can synergistically aggravate insulin resistance in T2DM, and increased visceral fat may be the main cause of insulin resistance in obese patients. Weight loss can improve insulin resistance, lower blood sugar and improve risk factors for cardiovascular disease. Overweight and obese T2DM patients who lose 3% to 5% weight can produce clinically significant health benefits such as significant reductions in blood sugar, HbA1c, blood pressure, and triglycerides (TG), and improve their quality of life. Within a certain range, the more weight you lose, the greater the benefit."
+    },
+    {
+      "paragraph_id": "53",
+      "paragraph": "T2DM及肥胖确诊后，至少每年评估1次心血管病变的风险因素，评估的内容包括心血管病既往史及现状、年龄、有无心血管风险因素(吸烟、血脂紊乱、高血压和家族史等)、肾脏损害(尿白蛋白排泄率增高等)、心房颤动(可导致卒中)。全面评估和控制心血管疾病风险因素，并进行合理的降压、调脂和抗血小板治疗，可显著改善糖尿病患者心脑血管病变和死亡发生的风险。联合使用其他药物时应注意：β受体阻滞剂增加体重、他汀类药物升高血糖、某些抗抑郁焦虑药物增加体重等。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "T2DM及肥胖确诊后，至少每年评估1次心血管病变的风险因素，评估的内容包括心血管病既往史及现状、年龄、有无心血管风险因素(吸烟、血脂紊乱、高血压和家族史等)、肾脏损害(尿白蛋白排泄率增高等)、心房颤动(可导致卒中)。全面评估和控制心血管疾病风险因素，并进行合理的降压、调脂和抗血小板治疗，可显著改善糖尿病患者心脑血管病变和死亡发生的风险。联合使用其他药物时应注意：β受体阻滞剂增加体重、他汀类药物升高血糖、某些抗抑郁焦虑药物增加体重等。",
+          "start_idx": 0,
+          "end_idx": 218,
+          "entities": [
+            {
+              "entity_id": "T316",
+              "entity": "T2DM",
+              "entity_type": "Disease",
+              "start_idx": 0,
+              "end_idx": 4,
+              "entity_en": "T2DM"
+            },
+            {
+              "entity_id": "T317",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 5,
+              "end_idx": 7,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T318",
+              "entity": "心血管病",
+              "entity_type": "Disease",
+              "start_idx": 37,
+              "end_idx": 41,
+              "entity_en": "Cardiovascular disease"
+            },
+            {
+              "entity_id": "T319",
+              "entity": "心血管",
+              "entity_type": "Anatomy",
+              "start_idx": 37,
+              "end_idx": 40,
+              "entity_en": "Cardiovascular"
+            },
+            {
+              "entity_id": "T320",
+              "entity": "心血管",
+              "entity_type": "Anatomy",
+              "start_idx": 53,
+              "end_idx": 56,
+              "entity_en": "Cardiovascular"
+            },
+            {
+              "entity_id": "T321",
+              "entity": "血脂紊乱",
+              "entity_type": "Disease",
+              "start_idx": 64,
+              "end_idx": 68,
+              "entity_en": "Dyslipidemia"
+            },
+            {
+              "entity_id": "T322",
+              "entity": "高血压",
+              "entity_type": "Disease",
+              "start_idx": 69,
+              "end_idx": 72,
+              "entity_en": "hypertension"
+            },
+            {
+              "entity_id": "T323",
+              "entity": "肾脏损害",
+              "entity_type": "Disease",
+              "start_idx": 79,
+              "end_idx": 83,
+              "entity_en": "Kidney damage"
+            },
+            {
+              "entity_id": "T324",
+              "entity": "尿白蛋白排泄率",
+              "entity_type": "Test_items",
+              "start_idx": 84,
+              "end_idx": 91,
+              "entity_en": "Urinary albumin excretion rate"
+            },
+            {
+              "entity_id": "T325",
+              "entity": "增高",
+              "entity_type": "Test_Value",
+              "start_idx": 91,
+              "end_idx": 93,
+              "entity_en": "Increase"
+            },
+            {
+              "entity_id": "T326",
+              "entity": "心房颤动",
+              "entity_type": "Reason",
+              "start_idx": 96,
+              "end_idx": 100,
+              "entity_en": "Atrial fibrillation"
+            },
+            {
+              "entity_id": "T327",
+              "entity": "卒中",
+              "entity_type": "Disease",
+              "start_idx": 104,
+              "end_idx": 106,
+              "entity_en": "Stroke"
+            },
+            {
+              "entity_id": "T328",
+              "entity": "评估1次心血管病变的风险因素",
+              "entity_type": "Treatment",
+              "start_idx": 15,
+              "end_idx": 29,
+              "entity_en": "Assessment of cardiovascular risk factors"
+            },
+            {
+              "entity_id": "T329",
+              "entity": "降压",
+              "entity_type": "Treatment",
+              "start_idx": 131,
+              "end_idx": 133,
+              "entity_en": "Blood pressure reduction"
+            },
+            {
+              "entity_id": "T330",
+              "entity": "调脂",
+              "entity_type": "Treatment",
+              "start_idx": 134,
+              "end_idx": 136,
+              "entity_en": "Lipid regulation"
+            },
+            {
+              "entity_id": "T331",
+              "entity": "抗血小板治疗",
+              "entity_type": "Treatment",
+              "start_idx": 137,
+              "end_idx": 143,
+              "entity_en": "Antiplatelet therapy"
+            },
+            {
+              "entity_id": "T332",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 149,
+              "end_idx": 152,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T333",
+              "entity": "心脑血管病变",
+              "entity_type": "Disease",
+              "start_idx": 154,
+              "end_idx": 160,
+              "entity_en": "Cardiovascular and cerebrovascular diseases"
+            },
+            {
+              "entity_id": "T334",
+              "entity": "心脑血管",
+              "entity_type": "Anatomy",
+              "start_idx": 154,
+              "end_idx": 158,
+              "entity_en": "Cardiovascular"
+            },
+            {
+              "entity_id": "T335",
+              "entity": "β受体阻滞剂",
+              "entity_type": "Drug",
+              "start_idx": 182,
+              "end_idx": 188,
+              "entity_en": "Beta-blockers"
+            },
+            {
+              "entity_id": "T336",
+              "entity": "增加体重",
+              "entity_type": "ADE",
+              "start_idx": 188,
+              "end_idx": 192,
+              "entity_en": "Gaining weight"
+            },
+            {
+              "entity_id": "T337",
+              "entity": "他汀类药物",
+              "entity_type": "Drug",
+              "start_idx": 193,
+              "end_idx": 198,
+              "entity_en": "Statins"
+            },
+            {
+              "entity_id": "T338",
+              "entity": "升高血糖",
+              "entity_type": "ADE",
+              "start_idx": 198,
+              "end_idx": 202,
+              "entity_en": "Increased blood sugar"
+            },
+            {
+              "entity_id": "T339",
+              "entity": "T2",
+              "entity_type": "Class",
+              "start_idx": 0,
+              "end_idx": 2,
+              "entity_en": "T2"
+            },
+            {
+              "entity_id": "T340",
+              "entity": "肾脏",
+              "entity_type": "Anatomy",
+              "start_idx": 79,
+              "end_idx": 81,
+              "entity_en": "kidney"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R117",
+              "head_entity_id": "T328",
+              "tail_entity_id": "T316"
+            },
+            {
+              "relation_type": "Class_Disease",
+              "relation_id": "R118",
+              "head_entity_id": "T339",
+              "tail_entity_id": "T316"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R119",
+              "head_entity_id": "T328",
+              "tail_entity_id": "T317"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R120",
+              "head_entity_id": "T319",
+              "tail_entity_id": "T318"
+            },
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R121",
+              "head_entity_id": "T324",
+              "tail_entity_id": "T323"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R122",
+              "head_entity_id": "T340",
+              "tail_entity_id": "T323"
+            },
+            {
+              "relation_type": "Reason_Disease",
+              "relation_id": "R123",
+              "head_entity_id": "T326",
+              "tail_entity_id": "T327"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R124",
+              "head_entity_id": "T329",
+              "tail_entity_id": "T332"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R125",
+              "head_entity_id": "T330",
+              "tail_entity_id": "T332"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R126",
+              "head_entity_id": "T331",
+              "tail_entity_id": "T332"
+            },
+            {
+              "relation_type": "Anatomy_Disease",
+              "relation_id": "R127",
+              "head_entity_id": "T334",
+              "tail_entity_id": "T333"
+            },
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R128",
+              "head_entity_id": "T336",
+              "tail_entity_id": "T335"
+            },
+            {
+              "relation_type": "ADE_Drug",
+              "relation_id": "R129",
+              "head_entity_id": "T338",
+              "tail_entity_id": "T337"
+            }
+          ],
+          "sentence_en": "After T2DM and obesity are diagnosed, cardiovascular risk factors should be assessed at least once a year. The assessment includes the history and current status of cardiovascular disease, age, the presence or absence of cardiovascular risk factors (smoking, dyslipidemia, hypertension, and family history, etc.), kidney damage (increased urinary albumin excretion rate, etc.), and atrial fibrillation (which can lead to stroke). Comprehensive assessment and control of cardiovascular risk factors, as well as reasonable antihypertensive, lipid-lowering, and antiplatelet therapy can significantly improve the risk of cardiovascular and cerebrovascular disease and death in diabetic patients. When using other drugs in combination, attention should be paid to the following: beta-blockers increase weight, statins increase blood sugar, and certain antidepressant and anxiety drugs increase weight."
+        }
+      ],
+      "paragraph_en": "After T2DM and obesity are diagnosed, cardiovascular risk factors should be assessed at least once a year. The assessment includes the history and current status of cardiovascular disease, age, the presence or absence of cardiovascular risk factors (smoking, dyslipidemia, hypertension, and family history, etc.), kidney damage (increased urinary albumin excretion rate, etc.), and atrial fibrillation (which can lead to stroke). Comprehensive assessment and control of cardiovascular risk factors, as well as reasonable antihypertensive, lipid-lowering, and antiplatelet therapy can significantly improve the risk of cardiovascular and cerebrovascular disease and death in diabetic patients. When using other drugs in combination, attention should be paid to the following: beta-blockers increase weight, statins increase blood sugar, and certain antidepressant and anxiety drugs increase weight."
+    }
+  ]
+}

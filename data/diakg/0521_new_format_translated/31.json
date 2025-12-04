@@ -1,0 +1,642 @@
+{
+  "doc_id": "31",
+  "paragraphs": [
+    {
+      "paragraph_id": "0",
+      "paragraph": "中国糖尿病防控专家共识",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "中国糖尿病防控专家共识",
+          "start_idx": 0,
+          "end_idx": 11,
+          "entities": [
+            {
+              "entity_id": "T0",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 5,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "Expert consensus on diabetes prevention and control in China"
+        }
+      ],
+      "paragraph_en": "Expert consensus on diabetes prevention and control in China"
+    },
+    {
+      "paragraph_id": "1",
+      "paragraph": "为了加强糖尿病防控工作，保障人民健康，国家卫生计生委疾病预防控制局组织开展了中国糖防控策略研究，经咨询和广泛征求意见，达成了专家共识，并在国家卫生计生委疾控局主办，中国疾病预防控制中心、中华医学会、中华预防医学会、中国医师协会共同承办的2016联合国糖尿病日共同关注糖尿病”活动中向社会公开发布，意见如下：",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "为了加强糖尿病防控工作，保障人民健康，国家卫生计生委疾病预防控制局组织开展了中国糖防控策略研究，经咨询和广泛征求意见，达成了专家共识，并在国家卫生计生委疾控局主办，中国疾病预防控制中心、中华医学会、中华预防医学会、中国医师协会共同承办的2016联合国糖尿病日共同关注糖尿病”活动中向社会公开发布，意见如下：",
+          "start_idx": 0,
+          "end_idx": 153,
+          "entities": [
+            {
+              "entity_id": "T1",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 4,
+              "end_idx": 7,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T2",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 125,
+              "end_idx": 128,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T3",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 133,
+              "end_idx": 136,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "In order to strengthen diabetes prevention and control and protect people's health, the National Health and Family Planning Commission's Disease Control and Prevention Bureau organized a study on China's sugar prevention and control strategy. After consultation and extensive solicitation of opinions, an expert consensus was reached and released to the public at the \"2016 United Nations Diabetes Day Focus on Diabetes\" event hosted by the National Health and Family Planning Commission's Disease Control and Prevention Bureau and co-organized by the Chinese Center for Disease Control and Prevention, the Chinese Medical Association, the Chinese Preventive Medicine Association, and the Chinese Medical Doctor Association. The opinions are as follows:"
+        }
+      ],
+      "paragraph_en": "In order to strengthen diabetes prevention and control and protect people's health, the National Health and Family Planning Commission's Disease Control and Prevention Bureau organized a study on China's sugar prevention and control strategy. After consultation and extensive solicitation of opinions, an expert consensus was reached and released to the public at the \"2016 United Nations Diabetes Day Focus on Diabetes\" event hosted by the National Health and Family Planning Commission's Disease Control and Prevention Bureau and co-organized by the Chinese Center for Disease Control and Prevention, the Chinese Medical Association, the Chinese Preventive Medicine Association, and the Chinese Medical Doctor Association. The opinions are as follows:"
+    },
+    {
+      "paragraph_id": "2",
+      "paragraph": "1.我国糖尿病患病率为9.7%，患者人数近1个亿，呈快速增长趋势，导致糖尿病的危险因素广泛流行，已成为严重的公共卫生问题。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "1.我国糖尿病患病率为9.7%，患者人数近1个亿，呈快速增长趋势，导致糖尿病的危险因素广泛流行，已成为严重的公共卫生问题。",
+          "start_idx": 0,
+          "end_idx": 61,
+          "entities": [
+            {
+              "entity_id": "T4",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 4,
+              "end_idx": 7,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T5",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 35,
+              "end_idx": 38,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "1. The prevalence of diabetes in my country is 9.7%, with the number of patients approaching 100 million, showing a rapid growth trend. This has led to the widespread prevalence of risk factors for diabetes, and has become a serious public health issue."
+        }
+      ],
+      "paragraph_en": "1. The prevalence of diabetes in my country is 9.7%, with the number of patients approaching 100 million, showing a rapid growth trend. This has led to the widespread prevalence of risk factors for diabetes, and has become a serious public health issue."
+    },
+    {
+      "paragraph_id": "3",
+      "paragraph": "2.我国居民糖尿病知晓率、治疗率、控制率低，引发多种并发症，致残致死率高，带来沉重疾病负担，严重危害劳动力健康，影响经济社会可持续发展。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "2.我国居民糖尿病知晓率、治疗率、控制率低，引发多种并发症，致残致死率高，带来沉重疾病负担，严重危害劳动力健康，影响经济社会可持续发展。",
+          "start_idx": 0,
+          "end_idx": 68,
+          "entities": [
+            {
+              "entity_id": "T6",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 6,
+              "end_idx": 9,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "2. The awareness, treatment and control rates of diabetes among Chinese residents are low, which leads to a variety of complications, high disability and mortality rates, and a heavy disease burden. It seriously endangers the health of the workforce and affects the sustainable development of the economy and society."
+        }
+      ],
+      "paragraph_en": "2. The awareness, treatment and control rates of diabetes among Chinese residents are low, which leads to a variety of complications, high disability and mortality rates, and a heavy disease burden. It seriously endangers the health of the workforce and affects the sustainable development of the economy and society."
+    },
+    {
+      "paragraph_id": "4",
+      "paragraph": "3.糖尿病可防可控，关键在于早防早治。健康生活方式可有效预防糖尿病，早期发现、早期干预和规范治疗，可以减少和延缓并发症的发生，降低疾病负担，提高生命质量。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "3.糖尿病可防可控，关键在于早防早治。",
+          "start_idx": 0,
+          "end_idx": 19,
+          "entities": [
+            {
+              "entity_id": "T7",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 2,
+              "end_idx": 5,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "3. Diabetes is preventable and controllable. The key lies in early prevention and treatment."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "健康生活方式可有效预防糖尿病，早期发现、早期干预和规范治疗，可以减少和延缓并发症的发生，降低疾病负担，提高生命质量。",
+          "start_idx": 19,
+          "end_idx": 77,
+          "entities": [
+            {
+              "entity_id": "T8",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 11,
+              "end_idx": 14,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "A healthy lifestyle can effectively prevent diabetes. Early detection, early intervention and standardized treatment can reduce and delay the occurrence of complications, reduce the burden of the disease and improve the quality of life."
+        }
+      ],
+      "paragraph_en": "3. Diabetes is preventable and controllable. The key lies in early prevention and early treatment. A healthy lifestyle can effectively prevent diabetes. Early detection, early intervention and standardized treatment can reduce and delay the occurrence of complications, reduce the disease burden and improve the quality of life."
+    },
+    {
+      "paragraph_id": "5",
+      "paragraph": "4.要全面贯彻预防为主方针，坚持综合防控，防治结合，明确政府、社会、专业机构、家庭和个人在糖尿病防控中的责任，实施全方位全周期的健康管理，降低全人群糖尿病发病风险，维护和促进全民健康。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "4.要全面贯彻预防为主方针，坚持综合防控，防治结合，明确政府、社会、专业机构、家庭和个人在糖尿病防控中的责任，实施全方位全周期的健康管理，降低全人群糖尿病发病风险，维护和促进全民健康。",
+          "start_idx": 0,
+          "end_idx": 92,
+          "entities": [
+            {
+              "entity_id": "T9",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 45,
+              "end_idx": 48,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T10",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 74,
+              "end_idx": 77,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "4. We must fully implement the principle of prevention first, adhere to comprehensive prevention and control, combine prevention and treatment, clarify the responsibilities of the government, society, professional institutions, families and individuals in diabetes prevention and control, implement all-round and full-cycle health management, reduce the risk of diabetes in the entire population, and maintain and promote the health of the whole people."
+        }
+      ],
+      "paragraph_en": "4. We must fully implement the principle of prevention first, adhere to comprehensive prevention and control, combine prevention and treatment, clarify the responsibilities of the government, society, professional institutions, families and individuals in diabetes prevention and control, implement all-round and full-cycle health management, reduce the risk of diabetes in the entire population, and maintain and promote the health of the whole people."
+    },
+    {
+      "paragraph_id": "6",
+      "paragraph": "因此，我们建议：",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "因此，我们建议：",
+          "start_idx": 0,
+          "end_idx": 8,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Therefore, we recommend:"
+        }
+      ],
+      "paragraph_en": "Therefore, we recommend:"
+    },
+    {
+      "paragraph_id": "7",
+      "paragraph": "1.加强公共政策与立法，营造健康支持性环境。将健康融入所有政策，落实部门职责。将糖尿病等慢性病防控纳入《基本医疗卫生法》制订，推动营养改善条例、公共场所控烟条例等立法进程。制订可落实、可持续发展的国家糖尿病综合防治方案，开展全民健康生活方式行动，普及合理膳食、戒烟限酒、适量运动，开展“三减三健”专项活动，促进健康行为形成。加强媒体宣传，规范传播内容，提高公众健康素养。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "1.加强公共政策与立法，营造健康支持性环境。将健康融入所有政策，落实部门职责。将糖尿病等慢性病防控纳入《基本医疗卫生法》制订，推动营养改善条例、公共场所控烟条例等立法进程。制订可落实、可持续发展的国家糖尿病综合防治方案，开展全民健康生活方式行动，普及合理膳食、戒烟限酒、适量运动，开展“三减三健”专项活动，促进健康行为形成。",
+          "start_idx": 0,
+          "end_idx": 162,
+          "entities": [
+            {
+              "entity_id": "T11",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 40,
+              "end_idx": 43,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T12",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 100,
+              "end_idx": 103,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T13",
+              "entity": "合理膳食",
+              "entity_type": "Treatment",
+              "start_idx": 125,
+              "end_idx": 129,
+              "entity_en": "Healthy diet"
+            },
+            {
+              "entity_id": "T14",
+              "entity": "戒烟限酒",
+              "entity_type": "Treatment",
+              "start_idx": 130,
+              "end_idx": 134,
+              "entity_en": "Quit smoking and limit alcohol consumption"
+            },
+            {
+              "entity_id": "T15",
+              "entity": "适量运动",
+              "entity_type": "Treatment",
+              "start_idx": 135,
+              "end_idx": 139,
+              "entity_en": "Exercise regularly"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R0",
+              "head_entity_id": "T13",
+              "tail_entity_id": "T12"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R1",
+              "head_entity_id": "T14",
+              "tail_entity_id": "T12"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R2",
+              "head_entity_id": "T15",
+              "tail_entity_id": "T12"
+            }
+          ],
+          "sentence_en": "1. Strengthen public policies and legislation to create a healthy and supportive environment. Integrate health into all policies and implement departmental responsibilities. Incorporate the prevention and control of chronic diseases such as diabetes into the formulation of the Basic Medical and Health Law, and promote the legislative process of the Nutrition Improvement Regulations and the Public Places Smoking Control Regulations. Formulate a national comprehensive diabetes prevention and control plan that is implementable and sustainable, carry out a healthy lifestyle campaign for all people, popularize a reasonable diet, quit smoking and limit alcohol, and exercise moderately, carry out special activities of \"three reductions and three healths\", and promote the formation of healthy behaviors."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "加强媒体宣传，规范传播内容，提高公众健康素养。",
+          "start_idx": 162,
+          "end_idx": 185,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Strengthen media publicity, standardize dissemination content, and improve public health literacy."
+        }
+      ],
+      "paragraph_en": "1. Strengthen public policies and legislation to create a healthy and supportive environment. Integrate health into all policies and implement departmental responsibilities. Incorporate the prevention and control of chronic diseases such as diabetes into the formulation of the Basic Medical and Health Law, and promote the legislative process of the Nutrition Improvement Regulations and the Public Places Smoking Control Regulations. Formulate a national comprehensive diabetes prevention and control plan that is implementable and sustainable, carry out a healthy lifestyle campaign for all people, popularize a reasonable diet, quit smoking and limit alcohol, and exercise moderately, carry out special activities of \"three reductions and three healths\", and promote the formation of healthy behaviors. Strengthen media publicity, standardize the content of dissemination, and improve the public's health literacy."
+    },
+    {
+      "paragraph_id": "8",
+      "paragraph": "2.推动实施生命全周期的健康管理。开展孕期和分娩后体重管理和血糖筛查，推动母乳喂养和正确添加辅食。培养儿童、青少年的健康行为和技能，保证学生在校每天1小时运动，预防儿童青少年肥胖。开展职业人群健康教育，落实工间健身制度，积极建设健康食堂，降低职业人群患病风险。开展中老年人健康体检，及早发现高危人群和患者。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "2.推动实施生命全周期的健康管理。开展孕期和分娩后体重管理和血糖筛查，推动母乳喂养和正确添加辅食。培养儿童、青少年的健康行为和技能，保证学生在校每天1小时运动，预防儿童青少年肥胖。",
+          "start_idx": 0,
+          "end_idx": 90,
+          "entities": [
+            {
+              "entity_id": "T16",
+              "entity": "血糖筛查",
+              "entity_type": "Test_items",
+              "start_idx": 30,
+              "end_idx": 34,
+              "entity_en": "Blood glucose screening"
+            },
+            {
+              "entity_id": "T17",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 87,
+              "end_idx": 89,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T18",
+              "entity": "每天1小时运动",
+              "entity_type": "Treatment",
+              "start_idx": 72,
+              "end_idx": 79,
+              "entity_en": "1 hour of exercise per day"
+            },
+            {
+              "entity_id": "T19",
+              "entity": "体重管理",
+              "entity_type": "Treatment",
+              "start_idx": 25,
+              "end_idx": 29,
+              "entity_en": "Weight Management"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R3",
+              "head_entity_id": "T18",
+              "tail_entity_id": "T17"
+            }
+          ],
+          "sentence_en": "2. Promote the implementation of health management throughout the life cycle. Carry out weight management and blood sugar screening during pregnancy and after delivery, promote breastfeeding and the correct addition of complementary foods. Cultivate healthy behaviors and skills for children and adolescents, ensure that students exercise for 1 hour every day at school, and prevent obesity among children and adolescents."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "开展职业人群健康教育，落实工间健身制度，积极建设健康食堂，降低职业人群患病风险。",
+          "start_idx": 90,
+          "end_idx": 130,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Carry out health education for occupational groups, implement the system of fitness during work breaks, actively build healthy canteens, and reduce the risk of disease among occupational groups."
+        },
+        {
+          "sentence_id": "2",
+          "sentence": "开展中老年人健康体检，及早发现高危人群和患者。",
+          "start_idx": 130,
+          "end_idx": 153,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Carry out health examinations for middle-aged and elderly people to identify high-risk groups and patients early."
+        }
+      ],
+      "paragraph_en": "2. Promote the implementation of health management throughout the life cycle. Carry out weight management and blood sugar screening during pregnancy and after delivery, promote breastfeeding and the correct addition of complementary foods. Cultivate healthy behaviors and skills for children and adolescents, ensure that students exercise for 1 hour every day at school, and prevent obesity among children and adolescents. Carry out health education for occupational groups, implement the system of fitness during work breaks, actively build healthy canteens, and reduce the risk of disease among occupational groups. Carry out health examinations for middle-aged and elderly people, and detect high-risk groups and patients as early as possible."
+    },
+    {
+      "paragraph_id": "9",
+      "paragraph": "3.实施高危人群干预，推动关口前移。用好居民健康档案和各类体检信息，开展机会性筛查，发现或识别高危个体。针对糖尿病前期人群和血糖正常性高危人群开展分层干预和管理。对超重、肥胖者以减重为目标强化生活方式干预。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "3.实施高危人群干预，推动关口前移。用好居民健康档案和各类体检信息，开展机会性筛查，发现或识别高危个体。针对糖尿病前期人群和血糖正常性高危人群开展分层干预和管理。对超重、肥胖者以减重为目标强化生活方式干预。",
+          "start_idx": 0,
+          "end_idx": 103,
+          "entities": [
+            {
+              "entity_id": "T20",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 54,
+              "end_idx": 57,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T21",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 62,
+              "end_idx": 64,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T22",
+              "entity": "超重",
+              "entity_type": "Disease",
+              "start_idx": 82,
+              "end_idx": 84,
+              "entity_en": "overweight"
+            },
+            {
+              "entity_id": "T23",
+              "entity": "肥胖",
+              "entity_type": "Disease",
+              "start_idx": 85,
+              "end_idx": 87,
+              "entity_en": "obesity"
+            },
+            {
+              "entity_id": "T24",
+              "entity": "减重",
+              "entity_type": "Treatment",
+              "start_idx": 89,
+              "end_idx": 91,
+              "entity_en": "Weight loss"
+            },
+            {
+              "entity_id": "T25",
+              "entity": "生活方式干预",
+              "entity_type": "Treatment",
+              "start_idx": 96,
+              "end_idx": 102,
+              "entity_en": "Lifestyle interventions"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R4",
+              "head_entity_id": "T21",
+              "tail_entity_id": "T20"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R5",
+              "head_entity_id": "T24",
+              "tail_entity_id": "T22"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R6",
+              "head_entity_id": "T25",
+              "tail_entity_id": "T22"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R7",
+              "head_entity_id": "T24",
+              "tail_entity_id": "T23"
+            },
+            {
+              "relation_type": "Treatment_Disease",
+              "relation_id": "R8",
+              "head_entity_id": "T25",
+              "tail_entity_id": "T23"
+            }
+          ],
+          "sentence_en": "3. Implement interventions for high-risk groups and push the checkpoints forward. Make good use of residents' health records and various physical examination information to carry out opportunistic screening to discover or identify high-risk individuals. Carry out stratified intervention and management for people with prediabetes and high-risk groups with normal blood sugar. Strengthen lifestyle interventions for overweight and obese people with the goal of weight loss."
+        }
+      ],
+      "paragraph_en": "3. Implement interventions for high-risk groups and push the checkpoints forward. Make good use of residents' health records and various physical examination information to carry out opportunistic screening to discover or identify high-risk individuals. Carry out stratified intervention and management for people with prediabetes and high-risk groups with normal blood sugar. Strengthen lifestyle interventions for overweight and obese people with the goal of weight loss."
+    },
+    {
+      "paragraph_id": "10",
+      "paragraph": "4.完善糖尿病防控体系，规范糖尿病患者治疗与管理。落实基层医疗卫生机构、医院、公共卫生机构职责，推进分级诊疗制度，建立协作共享机制，促进防治结合。强化基层卫生服务能力建设，规范基本公共卫生服务糖尿病患者健康管理，对发生并发症、血糖控制效果不佳等符合转诊条件的患者及时转诊，对病情稳定患者强化非药物治疗和自我管理支持。加强医院对基层医疗卫生机构的技术指导和支持。公共卫生机构做好信息收集、质量控制和效果评价工作。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "4.完善糖尿病防控体系，规范糖尿病患者治疗与管理。落实基层医疗卫生机构、医院、公共卫生机构职责，推进分级诊疗制度，建立协作共享机制，促进防治结合。强化基层卫生服务能力建设，规范基本公共卫生服务糖尿病患者健康管理，对发生并发症、血糖控制效果不佳等符合转诊条件的患者及时转诊，对病情稳定患者强化非药物治疗和自我管理支持。",
+          "start_idx": 0,
+          "end_idx": 158,
+          "entities": [
+            {
+              "entity_id": "T26",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 4,
+              "end_idx": 7,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T27",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 14,
+              "end_idx": 17,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T28",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 96,
+              "end_idx": 99,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T29",
+              "entity": "血糖",
+              "entity_type": "Test_items",
+              "start_idx": 113,
+              "end_idx": 115,
+              "entity_en": "blood sugar"
+            },
+            {
+              "entity_id": "T30",
+              "entity": "控制效果不佳",
+              "entity_type": "Test_Value",
+              "start_idx": 115,
+              "end_idx": 121,
+              "entity_en": "Poor control effect"
+            }
+          ],
+          "relations": [
+            {
+              "relation_type": "Test_items_Disease",
+              "relation_id": "R9",
+              "head_entity_id": "T29",
+              "tail_entity_id": "T28"
+            }
+          ],
+          "sentence_en": "4. Improve the diabetes prevention and control system and standardize the treatment and management of diabetic patients. Implement the responsibilities of primary medical and health institutions, hospitals, and public health institutions, promote the hierarchical diagnosis and treatment system, establish a collaborative sharing mechanism, and promote the combination of prevention and treatment. Strengthen the construction of primary health service capabilities, standardize the health management of diabetic patients in basic public health services, promptly refer patients who meet the referral conditions such as complications and poor blood sugar control, and strengthen non-drug treatment and self-management support for patients with stable conditions."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "加强医院对基层医疗卫生机构的技术指导和支持。",
+          "start_idx": 158,
+          "end_idx": 180,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Strengthen hospitals’ technical guidance and support to grassroots medical and health institutions."
+        },
+        {
+          "sentence_id": "2",
+          "sentence": "公共卫生机构做好信息收集、质量控制和效果评价工作。",
+          "start_idx": 180,
+          "end_idx": 205,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Public health institutions should do a good job in information collection, quality control and effect evaluation."
+        }
+      ],
+      "paragraph_en": "4. Improve the diabetes prevention and control system and standardize the treatment and management of diabetic patients. Implement the responsibilities of primary medical and health institutions, hospitals, and public health institutions, promote the hierarchical diagnosis and treatment system, establish a collaborative sharing mechanism, and promote the combination of prevention and treatment. Strengthen the construction of primary health service capabilities, standardize the health management of diabetic patients in basic public health services, and promptly refer patients who meet the referral conditions such as complications and poor blood sugar control, and strengthen non-drug treatment and self-management support for patients with stable conditions. Strengthen the technical guidance and support of hospitals to primary medical and health institutions. Public health institutions should do a good job in information collection, quality control, and effect evaluation."
+    },
+    {
+      "paragraph_id": "11",
+      "paragraph": "5.发展健康管理技术、创新健康服务模式。加强区域信息平台建设，推进互联网+移动健康服务，开展家庭医生签约服务。政府健全投入机制，引导社会力量增加糖尿病防治服务供给，催生糖尿病健康管理服务新模式。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "5.发展健康管理技术、创新健康服务模式。",
+          "start_idx": 0,
+          "end_idx": 20,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "5. Develop health management technologies and innovate health service models."
+        },
+        {
+          "sentence_id": "1",
+          "sentence": "加强区域信息平台建设，推进互联网+移动健康服务，开展家庭医生签约服务。",
+          "start_idx": 20,
+          "end_idx": 55,
+          "entities": [],
+          "relations": [],
+          "sentence_en": "Strengthen the construction of regional information platforms, promote Internet + mobile health services, and carry out family doctor contract services."
+        },
+        {
+          "sentence_id": "2",
+          "sentence": "政府健全投入机制，引导社会力量增加糖尿病防治服务供给，催生糖尿病健康管理服务新模式。",
+          "start_idx": 55,
+          "end_idx": 97,
+          "entities": [
+            {
+              "entity_id": "T31",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 17,
+              "end_idx": 20,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T32",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 29,
+              "end_idx": 32,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "The government will improve the investment mechanism, guide social forces to increase the supply of diabetes prevention and treatment services, and give birth to a new model of diabetes health management services."
+        }
+      ],
+      "paragraph_en": "5. Develop health management technologies and innovate health service models. Strengthen the construction of regional information platforms, promote Internet + mobile health services, and carry out family doctor contract services. The government will improve the investment mechanism, guide social forces to increase the supply of diabetes prevention and treatment services, and give birth to a new model of diabetes health management services."
+    },
+    {
+      "paragraph_id": "12",
+      "paragraph": "糖尿病防控是控制慢性病和实现“健康中国”目标不可缺少的重要内容，要以改革创新为动力，坚持预防为主，树立大卫生、大健康理念，政府、社会和个人共同行动起来，遏制糖尿病增长的势头。",
+      "sentences": [
+        {
+          "sentence_id": "0",
+          "sentence": "糖尿病防控是控制慢性病和实现“健康中国”目标不可缺少的重要内容，要以改革创新为动力，坚持预防为主，树立大卫生、大健康理念，政府、社会和个人共同行动起来，遏制糖尿病增长的势头。",
+          "start_idx": 0,
+          "end_idx": 87,
+          "entities": [
+            {
+              "entity_id": "T33",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 0,
+              "end_idx": 3,
+              "entity_en": "diabetes"
+            },
+            {
+              "entity_id": "T34",
+              "entity": "糖尿病",
+              "entity_type": "Disease",
+              "start_idx": 78,
+              "end_idx": 81,
+              "entity_en": "diabetes"
+            }
+          ],
+          "relations": [],
+          "sentence_en": "Diabetes prevention and control is an important and indispensable part of controlling chronic diseases and achieving the goal of \"Healthy China\". We must use reform and innovation as the driving force, adhere to prevention as the main approach, establish the concept of big health and big wellness, and the government, society and individuals must take joint action to curb the growth momentum of diabetes."
+        }
+      ],
+      "paragraph_en": "Diabetes prevention and control is an important and indispensable part of controlling chronic diseases and achieving the goal of \"Healthy China\". We must use reform and innovation as the driving force, adhere to prevention as the main approach, establish the concept of big health and big wellness, and the government, society and individuals must take joint action to curb the growth momentum of diabetes."
+    }
+  ]
+}
